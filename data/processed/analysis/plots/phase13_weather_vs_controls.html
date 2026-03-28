@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-80e59f1aaba55b10793ecbad10e2bda6"}, "mark": {"type": "bar", "cornerRadiusTopLeft": 6, "cornerRadiusTopRight": 6}, "encoding": {"color": {"field": "model_type", "legend": null, "type": "nominal"}, "column": {"field": "task", "title": null, "type": "nominal"}, "tooltip": [{"field": "task", "type": "nominal"}, {"field": "model_type", "type": "nominal"}, {"field": "value", "format": ".4f", "type": "quantitative"}], "x": {"field": "model_type", "title": "Model", "type": "nominal"}, "y": {"field": "value", "title": "Metric Value", "type": "quantitative"}}, "height": 260, "title": "Phase 13 - Weather vs No-Weather Controls", "width": 260, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-80e59f1aaba55b10793ecbad10e2bda6": [{"task": "Total Goals MAE", "model_type": "controls_only", "value": 1.3829136759792033}, {"task": "Total Goals MAE", "model_type": "controls_plus_weather", "value": 1.3908809936330138}, {"task": "Outcome Accuracy", "model_type": "controls_only", "value": 0.4782608695652174}, {"task": "Outcome Accuracy", "model_type": "controls_plus_weather", "value": 0.49104859335038364}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

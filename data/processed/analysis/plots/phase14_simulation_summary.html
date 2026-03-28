@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-efb7873ae99e682207cb67ebda0e3655"}, "mark": {"type": "bar", "cornerRadiusTopLeft": 6, "cornerRadiusTopRight": 6}, "encoding": {"color": {"field": "scenario", "legend": null, "type": "nominal"}, "tooltip": [{"field": "scenario", "type": "nominal"}, {"field": "avg_predicted_goals", "format": ".2f", "type": "quantitative"}, {"field": "avg_home_win_probability", "format": ".2%", "type": "quantitative"}], "x": {"field": "scenario", "title": "Scenario", "type": "nominal"}, "y": {"field": "avg_predicted_goals", "title": "Average Predicted Goals", "type": "quantitative"}}, "height": 300, "title": "Phase 14 - Scenario Simulation Summary", "width": 620, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-efb7873ae99e682207cb67ebda0e3655": [{"scenario": "extreme_cold", "matches": 40, "avg_predicted_goals": 2.91938428940226, "avg_home_win_probability": 0.38493860629351, "avg_draw_probability": 0.30114784731892613, "avg_away_win_probability": 0.31391354638756386}, {"scenario": "heavy_rain", "matches": 40, "avg_predicted_goals": 2.954199702816057, "avg_home_win_probability": 0.28129544079475544, "avg_draw_probability": 0.45455094257155554, "avg_away_win_probability": 0.264153616633689}, {"scenario": "normal_day", "matches": 40, "avg_predicted_goals": 2.919554533213585, "avg_home_win_probability": 0.46499256290863994, "avg_draw_probability": 0.3421705386670512, "avg_away_win_probability": 0.1928368984243088}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

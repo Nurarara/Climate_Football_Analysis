@@ -1,0 +1,27 @@
+team_name,stadium_name,city,latitude,longitude,stadium_capacity,pitch_type,altitude_m
+Arsenal,Emirates Stadium,London,51.5549,-0.1084,60704,grass,25
+Aston Villa,Villa Park,Birmingham,52.5092,-1.8849,42682,grass,130
+Bournemouth,Vitality Stadium,Bournemouth,50.7352,-1.8384,11307,grass,14
+Brentford,Gtech Community Stadium,London,51.4908,-0.2888,17250,grass,10
+Brighton,American Express Stadium,Brighton,50.8616,-0.0837,31876,grass,18
+Burnley,Turf Moor,Burnley,53.789,-2.2303,21944,grass,123
+Chelsea,Stamford Bridge,London,51.4817,-0.191,40343,grass,8
+Crystal Palace,Selhurst Park,London,51.3983,-0.0856,25486,grass,67
+Everton,Goodison Park,Liverpool,53.4388,-2.9664,39414,grass,41
+Fulham,Craven Cottage,London,51.4749,-0.2217,25700,grass,8
+Leeds United,Elland Road,Leeds,53.7778,-1.5722,37908,grass,78
+Leicester City,King Power Stadium,Leicester,52.6204,-1.1422,32312,grass,62
+Liverpool,Anfield,Liverpool,53.4308,-2.9608,61276,grass,27
+Luton Town,Kenilworth Road,Luton,51.8842,-0.4315,12227,grass,124
+Manchester City,Etihad Stadium,Manchester,53.4831,-2.2004,53400,grass,45
+Manchester United,Old Trafford,Manchester,53.4631,-2.2913,74310,grass,22
+Newcastle United,St James' Park,Newcastle upon Tyne,54.9756,-1.6217,52305,grass,51
+Norwich City,Carrow Road,Norwich,52.6221,1.3092,27244,grass,17
+Nottingham Forest,City Ground,Nottingham,52.9398,-1.1322,30445,grass,17
+Sheffield United,Bramall Lane,Sheffield,53.3703,-1.4701,32050,grass,74
+Southampton,St Mary's Stadium,Southampton,50.9058,-1.3911,32384,grass,6
+Tottenham Hotspur,Tottenham Hotspur Stadium,London,51.6043,-0.0664,62850,grass,15
+Watford,Vicarage Road,Watford,51.6498,-0.4017,22200,grass,63
+West Bromwich Albion,The Hawthorns,West Bromwich,52.509,-1.9639,26688,grass,160
+West Ham United,London Stadium,London,51.5386,-0.0165,62500,grass,6
+Wolverhampton Wanderers,Molineux Stadium,Wolverhampton,52.5903,-2.1304,31750,grass,128

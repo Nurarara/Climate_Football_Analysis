@@ -1,0 +1,116 @@
+{
+  "generated_at_utc": "2026-03-20T21:25:07.647352+00:00",
+  "python_executable": "C:\\Users\\Rounak\\OneDrive\\\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b\\New project 3\\venv\\Scripts\\python.exe",
+  "steps_run": [
+    {
+      "name": "phase01_ingest_matches",
+      "script_path": "scripts/ingest_football_data.py",
+      "duration_seconds": 20.35,
+      "outputs": [
+        "data/raw/matches.csv"
+      ]
+    },
+    {
+      "name": "phase02_team_mapping",
+      "script_path": "scripts/create_team_mapping.py",
+      "duration_seconds": 0.84,
+      "outputs": [
+        "data/raw/team_mapping.csv"
+      ]
+    },
+    {
+      "name": "phase03_ingest_weather",
+      "script_path": "scripts/ingest_weather_data.py",
+      "duration_seconds": 196.5,
+      "outputs": [
+        "data/raw/weather.csv"
+      ]
+    },
+    {
+      "name": "phase04_clean_standardize",
+      "script_path": "scripts/clean_standardize_data.py",
+      "duration_seconds": 1.88,
+      "outputs": [
+        "data/processed/matches_clean.csv",
+        "data/processed/weather_clean.csv"
+      ]
+    },
+    {
+      "name": "phase05_join_data",
+      "script_path": "scripts/join_data.py",
+      "duration_seconds": 0.79,
+      "outputs": [
+        "data/processed/final_dataset.csv"
+      ]
+    },
+    {
+      "name": "phase06_engineer_features",
+      "script_path": "scripts/engineer_features.py",
+      "duration_seconds": 1.05,
+      "outputs": [
+        "data/processed/feature_dataset.csv"
+      ]
+    },
+    {
+      "name": "phase07_train_models",
+      "script_path": "scripts/train_models.py",
+      "duration_seconds": 5.07,
+      "outputs": [
+        "data/processed/models/match_outcome_model.joblib",
+        "data/processed/models/total_goals_model.joblib",
+        "data/processed/models/training_metadata.json"
+      ]
+    },
+    {
+      "name": "phase08_evaluate_models",
+      "script_path": "scripts/evaluate_models.py",
+      "duration_seconds": 2.64,
+      "outputs": [
+        "data/processed/models/evaluation_metrics.json",
+        "data/processed/models/insight_summary.txt"
+      ]
+    },
+    {
+      "name": "phase11_12_temporal_climate",
+      "script_path": "scripts/analyze_temporal_and_climate_sensitivity.py",
+      "duration_seconds": 2.06,
+      "outputs": [
+        "data/processed/analysis/phase11_temporal_summary.txt",
+        "data/processed/analysis/phase12_climate_sensitivity_summary.txt"
+      ]
+    },
+    {
+      "name": "phase13_15_causal_simulation_extreme",
+      "script_path": "scripts/analyze_causal_simulation_extreme.py",
+      "duration_seconds": 12.79,
+      "outputs": [
+        "data/processed/analysis/phase13_causal_summary.txt",
+        "data/processed/analysis/phase14_simulation_summary.txt",
+        "data/processed/analysis/phase15_extreme_weather_summary.txt"
+      ]
+    },
+    {
+      "name": "phase16_19_player_future_geo_interpretability",
+      "script_path": "scripts/analyze_player_future_geo_interpretability.py",
+      "duration_seconds": 53.6,
+      "outputs": [
+        "data/processed/analysis/phase16_player_climate_summary.txt",
+        "data/processed/analysis/phase17_climate_change_summary.txt",
+        "data/processed/analysis/phase18_geographical_summary.txt",
+        "data/processed/analysis/phase19_interpretability_summary.txt"
+      ]
+    },
+    {
+      "name": "phase10_assets",
+      "script_path": "scripts/generate_readme_assets.py",
+      "duration_seconds": 5.79,
+      "outputs": [
+        "assets/pipeline_diagram.svg",
+        "assets/overview_preview.png",
+        "assets/team_analysis_preview.png",
+        "assets/prediction_tool_preview.png"
+      ]
+    }
+  ],
+  "log_path": "C:\\Users\\Rounak\\OneDrive\\\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b\\New project 3\\logs\\pipeline_20260320_212004.log"
+}

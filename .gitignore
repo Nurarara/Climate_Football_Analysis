@@ -1,0 +1,14 @@
+venv/
+venv_broken_backup/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.ipynb_checkpoints/
+.streamlit/
+Thumbs.db
+*.tmp
+logs/
+streamlit_dashboard.log
+streamlit_dashboard.err.log

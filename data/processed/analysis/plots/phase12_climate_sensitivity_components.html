@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-51ad75300f3dd7816fd56bdab22dfc7b"}, "mark": {"type": "bar", "cornerRadiusTopLeft": 6, "cornerRadiusTopRight": 6}, "encoding": {"color": {"field": "component", "title": "Weather Driver", "type": "nominal"}, "tooltip": [{"field": "home_team", "type": "nominal"}, {"field": "component", "type": "nominal"}, {"field": "value", "format": ".2f", "type": "quantitative"}], "x": {"field": "value", "title": "Normalized Impact", "type": "quantitative"}, "y": {"field": "home_team", "sort": "-x", "title": "Team", "type": "nominal"}}, "height": 420, "title": "Rain vs Cold Sensitivity Components", "width": 620, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-51ad75300f3dd7816fd56bdab22dfc7b": [{"home_team": "Everton", "component": "rain_sensitivity_component", "value": 0.0167731415555883}, {"home_team": "Watford", "component": "rain_sensitivity_component", "value": 0.5206349206349206}, {"home_team": "Nottingham Forest", "component": "rain_sensitivity_component", "value": -0.034438775510204064}, {"home_team": "Tottenham Hotspur", "component": "rain_sensitivity_component", "value": 0.18855261088748954}, {"home_team": "Crystal Palace", "component": "rain_sensitivity_component", "value": -0.1331222189799995}, {"home_team": "Leicester City", "component": "rain_sensitivity_component", "value": 0.01680830464716004}, {"home_team": "Manchester City", "component": "rain_sensitivity_component", "value": 0.008364672910533203}, {"home_team": "Brighton", "component": "rain_sensitivity_component", "value": -0.000732916522421215}, {"home_team": "Aston Villa", "component": "rain_sensitivity_component", "value": 0.145516998040241}, {"home_team": "Luton Town", "component": "rain_sensitivity_component", "value": 0.32602040816326533}, {"home_team": "West Bromwich Albion", "component": "rain_sensitivity_component", "value": 0.12460937499999997}, {"home_team": "Arsenal", "component": "rain_sensitivity_component", "value": -0.032328113644997075}, {"home_team": "Newcastle United", "component": "rain_sensitivity_component", "value": -0.021843087794848025}, {"home_team": "Chelsea", "component": "rain_sensitivity_component", "value": 0.03261035839160842}, {"home_team": "Bournemouth", "component": "rain_sensitivity_component", "value": 0.15592361975923621}, {"home_team": "Fulham", "component": "rain_sensitivity_component", "value": 0.015855798372946244}, {"home_team": "West Ham United", "component": "rain_sensitivity_component", "value": 0.0812962193242237}, {"home_team": "Liverpool", "component": "rain_sensitivity_component", "value": -0.03849162694047185}, {"home_team": "Manchester United", "component": "rain_sensitivity_component", "value": 0.0007960601015048895}, {"home_team": "Wolverhampton Wanderers", "component": "rain_sensitivity_component", "value": -0.09301564320368283}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

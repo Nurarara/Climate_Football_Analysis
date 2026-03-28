@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-874a0ceced88f027aff601bf9b71e7b2"}, "mark": {"type": "bar", "cornerRadiusTopLeft": 6, "cornerRadiusTopRight": 6}, "encoding": {"color": {"field": "feature_group", "title": "Feature Group", "type": "nominal"}, "tooltip": [{"field": "feature", "type": "nominal"}, {"field": "feature_group", "type": "nominal"}, {"field": "home_win_coefficient", "format": ".4f", "type": "quantitative"}, {"field": "draw_coefficient", "format": ".4f", "type": "quantitative"}, {"field": "away_win_coefficient", "format": ".4f", "type": "quantitative"}], "x": {"field": "average_absolute_coefficient", "title": "Average Absolute Coefficient", "type": "quantitative"}, "y": {"field": "feature", "sort": "-x", "title": "Feature", "type": "nominal"}}, "height": 360, "title": "Phase 19 - Classification Importance", "width": 620, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-874a0ceced88f027aff601bf9b71e7b2": [{"feature": "apparent_temperature_gap", "home_win_coefficient": 0.13180713809803202, "draw_coefficient": 0.24381055959954412, "away_win_coefficient": -0.3756176976975772, "average_absolute_coefficient": 0.2504117984650511, "feature_group": "weather"}, {"feature": "temperature", "home_win_coefficient": -0.18917323192161858, "draw_coefficient": -0.13888637105176824, "away_win_coefficient": 0.32805960297338765, "average_absolute_coefficient": 0.21870640198225813, "feature_group": "weather"}, {"feature": "extreme_weather_flag", "home_win_coefficient": -0.18091809254460367, "draw_coefficient": -0.08356747251868825, "away_win_coefficient": 0.2644855650632929, "average_absolute_coefficient": 0.17632371004219494, "feature_group": "weather"}, {"feature": "heavy_rain_flag", "home_win_coefficient": 0.014670236314863467, "draw_coefficient": 0.22221893542651205, "away_win_coefficient": -0.2368891717413752, "average_absolute_coefficient": 0.15792611449425023, "feature_group": "weather"}, {"feature": "humidity", "home_win_coefficient": -0.10293621519405768, "draw_coefficient": -0.1017537625048546, "away_win_coefficient": 0.20468997769891262, "average_absolute_coefficient": 0.1364599851326083, "feature_group": "weather"}, {"feature": "rain", "home_win_coefficient": 0.1311899175664343, "draw_coefficient": -0.1780577201757241, "away_win_coefficient": 0.04686780260929004, "average_absolute_coefficient": 0.11870514678381615, "feature_group": "weather"}, {"feature": "apparent_temperature", "home_win_coefficient": -0.12288665572416373, "draw_coefficient": -0.05354919787076936, "away_win_coefficient": 0.17643585359493305, "average_absolute_coefficient": 0.11762390239662206, "feature_group": "weather"}, {"feature": "windy_flag", "home_win_coefficient": -0.031052685595951778, "draw_coefficient": 0.16016520370299966, "away_win_coefficient": -0.12911251810704838, "average_absolute_coefficient": 0.10677680246866661, "feature_group": "weather"}, {"feature": "apparent_cold_flag", "home_win_coefficient": -0.15612462875622196, "draw_coefficient": 0.08234067359433087, "away_win_coefficient": 0.07378395516189087, "average_absolute_coefficient": 0.10408308583748123, "feature_group": "weather"}, {"feature": "season_progress", "home_win_coefficient": 0.04759611317814804, "draw_coefficient": -0.15255855392263218, "away_win_coefficient": 0.10496244074448437, "average_absolute_coefficient": 0.1017057026150882, "feature_group": "control"}, {"feature": "hot_flag", "home_win_coefficient": 0.08932296321770522, "draw_coefficient": 0.06187041494751524, "away_win_coefficient": -0.15119337816521983, "average_absolute_coefficient": 0.1007955854434801, "feature_group": "weather"}, {"feature": "match_importance_proxy", "home_win_coefficient": 0.02827070482329031, "draw_coefficient": 0.10561108765277553, "away_win_coefficient": -0.13388179247606594, "average_absolute_coefficient": 0.08925452831737728, "feature_group": "control"}, {"feature": "away_team_goals_for_avg_last_5", "home_win_coefficient": -0.09811483161457227, "draw_coefficient": -0.015502729917773395, "away_win_coefficient": 0.11361756153234569, "average_absolute_coefficient": 0.07574504102156378, "feature_group": "control"}, {"feature": "away_team_goal_difference_avg_last_5", "home_win_coefficient": -0.09759834209590235, "draw_coefficient": -0.009070054223859973, "away_win_coefficient": 0.10666839631976273, "average_absolute_coefficient": 0.07111226421317501, "feature_group": "control"}, {"feature": "freezing_flag", "home_win_coefficient": 0.011568728848032386, "draw_coefficient": 0.09358824375679879, "away_win_coefficient": -0.10515697260483071, "average_absolute_coefficient": 0.07010464840322063, "feature_group": "weather"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-7d48660c4857b24b18ffcd6e464635d0"}, "mark": {"type": "bar", "cornerRadiusTopLeft": 6, "cornerRadiusTopRight": 6}, "encoding": {"color": {"condition": {"test": "(datum.rain_impact_on_goals > 0)", "value": "#2E8B57"}, "value": "#C0392B"}, "tooltip": [{"field": "season_label", "type": "nominal"}, {"field": "dry_avg_goals", "format": ".2f", "type": "quantitative"}, {"field": "rainy_avg_goals", "format": ".2f", "type": "quantitative"}, {"field": "rain_impact_on_goals", "format": ".2f", "type": "quantitative"}], "x": {"field": "season_label", "title": "Season", "type": "nominal"}, "y": {"field": "rain_impact_on_goals", "title": "Rain Impact on Avg Goals", "type": "quantitative"}}, "height": 260, "title": "Rain Impact Consistency Across Seasons", "width": 600, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-7d48660c4857b24b18ffcd6e464635d0": [{"season_label": "2019-2020", "dry_avg_goals": 2.7950819672131146, "rainy_avg_goals": 2.686046511627907, "rain_impact_on_goals": -0.10903545558520777}, {"season_label": "2020-2021", "dry_avg_goals": 2.7127659574468086, "rainy_avg_goals": 2.6888111888111887, "rain_impact_on_goals": -0.02395476863561985}, {"season_label": "2021-2022", "dry_avg_goals": 2.789473684210526, "rainy_avg_goals": 2.830827067669173, "rain_impact_on_goals": 0.04135338345864703}, {"season_label": "2022-2023", "dry_avg_goals": 2.7058823529411766, "rainy_avg_goals": 2.951541850220264, "rain_impact_on_goals": 0.24565949727908754}, {"season_label": "2023-2024", "dry_avg_goals": 3.0980392156862746, "rainy_avg_goals": 3.3453237410071943, "rain_impact_on_goals": 0.2472845253209197}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

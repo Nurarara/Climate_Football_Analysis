@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="674" viewBox="0 0 630 674">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#F39C12"/></marker></defs>
+<rect width="630" height="674" fill="#F7F9FC"/>
+<text x="40" y="54" font-size="30" font-family="Arial, sans-serif" font-weight="700" fill="#1F2937">Pipeline Architecture</text>
+<text x="40" y="82" font-size="15" font-family="Arial, sans-serif" fill="#6B7280">End-to-end flow from data ingestion to interactive product layer</text>
+<rect x="120" y="120" rx="18" ry="18" width="180" height="68" fill="#FFFFFF" stroke="#2E86AB" stroke-width="2"/>
+<text x="138" y="148" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#1F4E79">1.</text>
+<text x="138" y="168" font-size="15" font-family="Arial, sans-serif" fill="#1F2937">Football Ingestion</text>
+<line x1="210.0" y1="188" x2="210.0" y2="224" stroke="#F39C12" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="120" y="224" rx="18" ry="18" width="180" height="68" fill="#FFFFFF" stroke="#2E86AB" stroke-width="2"/>
+<text x="138" y="252" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#1F4E79">2.</text>
+<text x="138" y="272" font-size="15" font-family="Arial, sans-serif" fill="#1F2937">Team Mapping</text>
+<line x1="210.0" y1="292" x2="210.0" y2="328" stroke="#F39C12" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="120" y="328" rx="18" ry="18" width="180" height="68" fill="#FFFFFF" stroke="#2E86AB" stroke-width="2"/>
+<text x="138" y="356" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#1F4E79">3.</text>
+<text x="138" y="376" font-size="15" font-family="Arial, sans-serif" fill="#1F2937">Weather Ingestion</text>
+<line x1="210.0" y1="396" x2="210.0" y2="432" stroke="#F39C12" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="120" y="432" rx="18" ry="18" width="180" height="68" fill="#FFFFFF" stroke="#2E86AB" stroke-width="2"/>
+<text x="138" y="460" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#1F4E79">4.</text>
+<text x="138" y="480" font-size="15" font-family="Arial, sans-serif" fill="#1F2937">Cleaning</text>
+<line x1="210.0" y1="500" x2="210.0" y2="536" stroke="#F39C12" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="120" y="536" rx="18" ry="18" width="180" height="68" fill="#FFFFFF" stroke="#2E86AB" stroke-width="2"/>
+<text x="138" y="564" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#1F4E79">5.</text>
+<text x="138" y="584" font-size="15" font-family="Arial, sans-serif" fill="#1F2937">Joining</text>
+<line x1="300" y1="570.0" x2="330" y2="154.0" stroke="#F39C12" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="330" y="120" rx="18" ry="18" width="180" height="68" fill="#FFFFFF" stroke="#2E86AB" stroke-width="2"/>
+<text x="348" y="148" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#1F4E79">6.</text>
+<text x="348" y="168" font-size="15" font-family="Arial, sans-serif" fill="#1F2937">Features</text>
+<line x1="420.0" y1="188" x2="420.0" y2="224" stroke="#F39C12" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="330" y="224" rx="18" ry="18" width="180" height="68" fill="#FFFFFF" stroke="#2E86AB" stroke-width="2"/>
+<text x="348" y="252" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#1F4E79">7.</text>
+<text x="348" y="272" font-size="15" font-family="Arial, sans-serif" fill="#1F2937">Modeling</text>
+<line x1="420.0" y1="292" x2="420.0" y2="328" stroke="#F39C12" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="330" y="328" rx="18" ry="18" width="180" height="68" fill="#FFFFFF" stroke="#2E86AB" stroke-width="2"/>
+<text x="348" y="356" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#1F4E79">8.</text>
+<text x="348" y="376" font-size="15" font-family="Arial, sans-serif" fill="#1F2937">Evaluation</text>
+<line x1="420.0" y1="396" x2="420.0" y2="432" stroke="#F39C12" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="330" y="432" rx="18" ry="18" width="180" height="68" fill="#FFFFFF" stroke="#2E86AB" stroke-width="2"/>
+<text x="348" y="460" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#1F4E79">9.</text>
+<text x="348" y="480" font-size="15" font-family="Arial, sans-serif" fill="#1F2937">Dashboard</text>
+<line x1="420.0" y1="500" x2="420.0" y2="536" stroke="#F39C12" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="330" y="536" rx="18" ry="18" width="180" height="68" fill="#FFFFFF" stroke="#2E86AB" stroke-width="2"/>
+<text x="348" y="564" font-size="18" font-family="Arial, sans-serif" font-weight="700" fill="#1F4E79">10.</text>
+<text x="348" y="584" font-size="15" font-family="Arial, sans-serif" fill="#1F2937">Documentation</text>
+</svg>

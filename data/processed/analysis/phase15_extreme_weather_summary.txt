@@ -1,0 +1,4 @@
+Phase 15 - Extreme Weather Analysis
+Largest edge-case goal shift: extreme_wind with a -0.68 change in average goals versus baseline.
+Extreme-condition sample size: 397 matches.
+Extreme weather does not simply mirror average conditions; the rare-event slice shows its own goal and draw patterns and is worth analyzing separately from the main dataset.

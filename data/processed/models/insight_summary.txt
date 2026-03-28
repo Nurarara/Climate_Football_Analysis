@@ -1,0 +1,8 @@
+Evaluation Summary
+Train/test split: 1509 train rows and 391 test rows.
+Classification accuracy is 0.491 versus a baseline of 0.4655, for a lift of 0.0256.
+Regression MAE is 1.3919 versus a baseline of 1.396, improving error by 0.004.
+Weather improves match-outcome accuracy by 0.0128 compared with the no-weather version.
+Weather worsens total-goals MAE by 0.0013 compared with the no-weather version.
+Top classification feature: apparent_temperature_gap (score 0.2504).
+Top regression feature: match_importance_proxy (importance 0.092).

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-397524c09677e170d008ded63cdd9b23"}, "mark": {"type": "rect"}, "encoding": {"color": {"field": "avg_total_goals", "title": "Avg Goals", "type": "quantitative"}, "tooltip": [{"field": "month_name", "type": "ordinal"}, {"field": "temperature_band", "type": "ordinal"}, {"field": "matches", "type": "quantitative"}, {"field": "avg_total_goals", "format": ".2f", "type": "quantitative"}, {"field": "avg_temperature", "format": ".1f", "type": "quantitative"}], "x": {"field": "month_name", "sort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "title": "Month", "type": "nominal"}, "y": {"field": "temperature_band", "title": "Temperature Band", "type": "nominal"}}, "height": 260, "title": "Goals vs Temperature Across Months", "width": 600, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-397524c09677e170d008ded63cdd9b23": [{"month_name": "Apr", "temperature_band": "<5C", "matches": 22, "avg_total_goals": 3.0454545454545454, "avg_temperature": 3.5090909090909093}, {"month_name": "Apr", "temperature_band": "5-10C", "matches": 131, "avg_total_goals": 3.0610687022900764, "avg_temperature": 7.6603053435114505}, {"month_name": "Apr", "temperature_band": "10-15C", "matches": 49, "avg_total_goals": 3.183673469387755, "avg_temperature": 11.677551020408163}, {"month_name": "Apr", "temperature_band": "15-20C", "matches": 2, "avg_total_goals": 3.5, "avg_temperature": 15.9}, {"month_name": "Aug", "temperature_band": "10-15C", "matches": 26, "avg_total_goals": 3.0, "avg_temperature": 14.292307692307693}, {"month_name": "Aug", "temperature_band": "15-20C", "matches": 108, "avg_total_goals": 2.8333333333333335, "avg_temperature": 17.44351851851852}, {"month_name": "Aug", "temperature_band": "20-25C", "matches": 9, "avg_total_goals": 2.111111111111111, "avg_temperature": 23.077777777777776}, {"month_name": "Aug", "temperature_band": "25C+", "matches": 3, "avg_total_goals": 4.666666666666667, "avg_temperature": 25.266666666666666}, {"month_name": "Dec", "temperature_band": "<5C", "matches": 80, "avg_total_goals": 2.9375, "avg_temperature": 2.8537500000000002}, {"month_name": "Dec", "temperature_band": "5-10C", "matches": 151, "avg_total_goals": 2.794701986754967, "avg_temperature": 7.414569536423841}, {"month_name": "Dec", "temperature_band": "10-15C", "matches": 25, "avg_total_goals": 2.8, "avg_temperature": 10.904000000000002}, {"month_name": "Feb", "temperature_band": "<5C", "matches": 59, "avg_total_goals": 2.711864406779661, "avg_temperature": 3.2203389830508473}, {"month_name": "Feb", "temperature_band": "5-10C", "matches": 126, "avg_total_goals": 2.8095238095238093, "avg_temperature": 7.624603174603175}, {"month_name": "Feb", "temperature_band": "10-15C", "matches": 27, "avg_total_goals": 2.4074074074074074, "avg_temperature": 10.81111111111111}, {"month_name": "Jan", "temperature_band": "<5C", "matches": 96, "avg_total_goals": 2.4583333333333335, "avg_temperature": 2.7270833333333333}, {"month_name": "Jan", "temperature_band": "5-10C", "matches": 65, "avg_total_goals": 2.769230769230769, "avg_temperature": 7.309230769230769}, {"month_name": "Jan", "temperature_band": "10-15C", "matches": 16, "avg_total_goals": 2.6875, "avg_temperature": 11.0875}, {"month_name": "Jul", "temperature_band": "10-15C", "matches": 24, "avg_total_goals": 2.75, "avg_temperature": 13.883333333333333}, {"month_name": "Jul", "temperature_band": "15-20C", "matches": 41, "avg_total_goals": 3.024390243902439, "avg_temperature": 16.521951219512193}, {"month_name": "Jul", "temperature_band": "20-25C", "matches": 1, "avg_total_goals": 4.0, "avg_temperature": 21.0}, {"month_name": "Jun", "temperature_band": "10-15C", "matches": 2, "avg_total_goals": 3.5, "avg_temperature": 14.9}, {"month_name": "Jun", "temperature_band": "15-20C", "matches": 16, "avg_total_goals": 2.0, "avg_temperature": 16.1125}, {"month_name": "Jun", "temperature_band": "20-25C", "matches": 8, "avg_total_goals": 2.125, "avg_temperature": 21.6}, {"month_name": "Mar", "temperature_band": "<5C", "matches": 54, "avg_total_goals": 2.740740740740741, "avg_temperature": 3.4185185185185185}, {"month_name": "Mar", "temperature_band": "5-10C", "matches": 81, "avg_total_goals": 2.7160493827160495, "avg_temperature": 7.750617283950617}, {"month_name": "Mar", "temperature_band": "10-15C", "matches": 8, "avg_total_goals": 3.625, "avg_temperature": 10.55}, {"month_name": "May", "temperature_band": "5-10C", "matches": 32, "avg_total_goals": 3.09375, "avg_temperature": 8.515625}, {"month_name": "May", "temperature_band": "10-15C", "matches": 116, "avg_total_goals": 3.1206896551724137, "avg_temperature": 12.525862068965518}, {"month_name": "May", "temperature_band": "15-20C", "matches": 27, "avg_total_goals": 3.2962962962962963, "avg_temperature": 15.718518518518518}, {"month_name": "Nov", "temperature_band": "<5C", "matches": 33, "avg_total_goals": 2.727272727272727, "avg_temperature": 2.460606060606061}, {"month_name": "Nov", "temperature_band": "5-10C", "matches": 79, "avg_total_goals": 3.1012658227848102, "avg_temperature": 7.8632911392405065}, {"month_name": "Nov", "temperature_band": "10-15C", "matches": 42, "avg_total_goals": 2.619047619047619, "avg_temperature": 11.507142857142858}, {"month_name": "Oct", "temperature_band": "5-10C", "matches": 46, "avg_total_goals": 3.152173913043478, "avg_temperature": 8.945652173913043}, {"month_name": "Oct", "temperature_band": "10-15C", "matches": 128, "avg_total_goals": 2.78125, "avg_temperature": 12.071875}, {"month_name": "Oct", "temperature_band": "15-20C", "matches": 21, "avg_total_goals": 2.380952380952381, "avg_temperature": 16.576190476190476}, {"month_name": "Sep", "temperature_band": "5-10C", "matches": 6, "avg_total_goals": 3.8333333333333335, "avg_temperature": 8.916666666666666}, {"month_name": "Sep", "temperature_band": "10-15C", "matches": 54, "avg_total_goals": 3.1296296296296298, "avg_temperature": 13.268518518518519}, {"month_name": "Sep", "temperature_band": "15-20C", "matches": 86, "avg_total_goals": 3.0348837209302326, "avg_temperature": 17.153488372093022}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

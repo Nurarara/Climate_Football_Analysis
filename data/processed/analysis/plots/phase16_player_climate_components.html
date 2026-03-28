@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-b51e2d51f8b1296f7a7c163a8308dab4"}, "mark": {"type": "bar", "cornerRadiusTopLeft": 6, "cornerRadiusTopRight": 6}, "encoding": {"color": {"field": "component", "title": "Driver", "type": "nominal"}, "tooltip": [{"field": "player_name", "type": "nominal"}, {"field": "component", "type": "nominal"}, {"field": "value", "format": ".2f", "type": "quantitative"}], "x": {"field": "value", "title": "Normalized Component", "type": "quantitative"}, "y": {"field": "player_name", "sort": "-x", "title": "Player", "type": "nominal"}}, "height": 420, "title": "Phase 16 - Rain vs Cold Player Effects", "width": 620, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-b51e2d51f8b1296f7a7c163a8308dab4": [{"player_name": "Kieran Dowell", "component": "rain_sensitivity_component", "value": 59.30817971085516}, {"player_name": "Pelly Ruddock Mpanzu", "component": "rain_sensitivity_component", "value": -5.146611237158421}, {"player_name": "Glenn Murray", "component": "rain_sensitivity_component", "value": 26.36820466191635}, {"player_name": "Issa Kabore", "component": "rain_sensitivity_component", "value": 29.788104115449983}, {"player_name": "Renan Lodi", "component": "rain_sensitivity_component", "value": 59.018087933263544}, {"player_name": "Wesley", "component": "rain_sensitivity_component", "value": 35.721227399871594}, {"player_name": "Jarell Quansah", "component": "rain_sensitivity_component", "value": 32.44892355690698}, {"player_name": "Christian Atsu", "component": "rain_sensitivity_component", "value": 36.87673639066239}, {"player_name": "Felipe Anderson", "component": "rain_sensitivity_component", "value": 20.617915782220717}, {"player_name": "Branislav Ivanovic", "component": "rain_sensitivity_component", "value": -0.5041521715631034}, {"player_name": "Jacob Brown", "component": "rain_sensitivity_component", "value": 41.51580828136692}, {"player_name": "Jack Colback", "component": "rain_sensitivity_component", "value": 15.065979607596407}, {"player_name": "Pontus Jansson", "component": "rain_sensitivity_component", "value": 23.64542826996899}, {"player_name": "Daiki Hashioka", "component": "rain_sensitivity_component", "value": 40.16715514509685}, {"player_name": "Yasser Larouci", "component": "rain_sensitivity_component", "value": 100.88990404386816}, {"player_name": "Donny van de Beek", "component": "rain_sensitivity_component", "value": 52.960756964170265}, {"player_name": "Milos Kerkez", "component": "rain_sensitivity_component", "value": 41.008026932686136}, {"player_name": "Imran Louza", "component": "rain_sensitivity_component", "value": 38.58418254959508}, {"player_name": "Junior Stanislas", "component": "rain_sensitivity_component", "value": 32.66433507837456}, {"player_name": "Amari&#039;i Bell", "component": "rain_sensitivity_component", "value": 44.50834836900191}, {"player_name": "Kieran Dowell", "component": "cold_sensitivity_component", "value": 43.93441097310572}, {"player_name": "Pelly Ruddock Mpanzu", "component": "cold_sensitivity_component", "value": 108.13226422953583}, {"player_name": "Glenn Murray", "component": "cold_sensitivity_component", "value": 75.00373006260831}, {"player_name": "Issa Kabore", "component": "cold_sensitivity_component", "value": 68.25332357458976}, {"player_name": "Renan Lodi", "component": "cold_sensitivity_component", "value": 28.648008129545506}, {"player_name": "Wesley", "component": "cold_sensitivity_component", "value": 44.28983852533975}, {"player_name": "Jarell Quansah", "component": "cold_sensitivity_component", "value": 46.94835023219363}, {"player_name": "Christian Atsu", "component": "cold_sensitivity_component", "value": 42.32490641602419}, {"player_name": "Felipe Anderson", "component": "cold_sensitivity_component", "value": 55.07875566587662}, {"player_name": "Branislav Ivanovic", "component": "cold_sensitivity_component", "value": 72.72581959852783}, {"player_name": "Jacob Brown", "component": "cold_sensitivity_component", "value": 27.770231342781486}, {"player_name": "Jack Colback", "component": "cold_sensitivity_component", "value": 52.5165150935273}, {"player_name": "Pontus Jansson", "component": "cold_sensitivity_component", "value": 41.27027888708616}, {"player_name": "Daiki Hashioka", "component": "cold_sensitivity_component", "value": 23.775009629371848}, {"player_name": "Yasser Larouci", "component": "cold_sensitivity_component", "value": -36.95494401958301}, {"player_name": "Donny van de Beek", "component": "cold_sensitivity_component", "value": 9.85611084082335}, {"player_name": "Milos Kerkez", "component": "cold_sensitivity_component", "value": 20.842243029781024}, {"player_name": "Imran Louza", "component": "cold_sensitivity_component", "value": 22.929774201080445}, {"player_name": "Junior Stanislas", "component": "cold_sensitivity_component", "value": 26.29862492872351}, {"player_name": "Amari&#039;i Bell", "component": "cold_sensitivity_component", "value": 14.280666527551247}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

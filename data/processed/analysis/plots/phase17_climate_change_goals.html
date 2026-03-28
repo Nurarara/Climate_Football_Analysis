@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-c64b0177f13c98ec55f86bc8d2e87654"}, "mark": {"type": "bar", "cornerRadiusTopLeft": 6, "cornerRadiusTopRight": 6}, "encoding": {"color": {"condition": {"test": "(datum.goals_pct_change_vs_current > 0)", "value": "#2E8B57"}, "value": "#C0392B"}, "tooltip": [{"field": "scenario", "type": "nominal"}, {"field": "predicted_total_goals", "format": ".3f", "type": "quantitative"}, {"field": "goals_pct_change_vs_current", "format": ".2%", "type": "quantitative"}, {"field": "predicted_home_win_probability", "format": ".2%", "type": "quantitative"}], "x": {"field": "scenario", "title": "Scenario", "type": "nominal"}, "y": {"field": "goals_pct_change_vs_current", "title": "Predicted Goals % Change vs Current", "type": "quantitative"}}, "height": 320, "title": "Phase 17 - Future Climate Scenario Impact", "width": 620, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-c64b0177f13c98ec55f86bc8d2e87654": [{"scenario": "current_climate", "matches": 1900, "avg_temperature": 9.723947368421053, "avg_rain": 2.8775263157894737, "avg_humidity": 81.56368421052632, "rainy_match_share": 0.6921052631578948, "extreme_weather_share": 0.20894736842105263, "predicted_total_goals": 2.785961311385377, "predicted_home_win_probability": 0.34593054839826387, "predicted_draw_probability": 0.32903417018642894, "predicted_away_win_probability": 0.32503528141530713, "goals_change_vs_current": 0.0, "goals_pct_change_vs_current": 0.0, "home_win_probability_change_vs_current": 0.0}, {"scenario": "+2c_warming", "matches": 1900, "avg_temperature": 11.723947368421053, "avg_rain": 2.8775263157894737, "avg_humidity": 80.56368421052632, "rainy_match_share": 0.6921052631578948, "extreme_weather_share": 0.12947368421052632, "predicted_total_goals": 2.7954822496501515, "predicted_home_win_probability": 0.33490915139702576, "predicted_draw_probability": 0.3161383943894952, "predicted_away_win_probability": 0.3489524542134791, "goals_change_vs_current": 0.009520938264774514, "goals_pct_change_vs_current": 0.0034174696632955147, "home_win_probability_change_vs_current": -0.011021397001238109}, {"scenario": "increased_rainfall", "matches": 1900, "avg_temperature": 9.723947368421053, "avg_rain": 4.88466052631579, "avg_humidity": 86.51105263157895, "rainy_match_share": 1.0, "extreme_weather_share": 0.2752631578947368, "predicted_total_goals": 2.7954122818361764, "predicted_home_win_probability": 0.3287082343741551, "predicted_draw_probability": 0.29070769393952517, "predicted_away_win_probability": 0.38058407168631975, "goals_change_vs_current": 0.009450970450799456, "goals_pct_change_vs_current": 0.0033923552391686893, "home_win_probability_change_vs_current": -0.017222314024108787}, {"scenario": "warmer_and_wetter", "matches": 1900, "avg_temperature": 11.723947368421053, "avg_rain": 4.88466052631579, "avg_humidity": 85.53842105263158, "rainy_match_share": 1.0, "extreme_weather_share": 0.19842105263157894, "predicted_total_goals": 2.8021918167039033, "predicted_home_win_probability": 0.31261454736157035, "predicted_draw_probability": 0.27277337409522884, "predicted_away_win_probability": 0.41461207854320087, "goals_change_vs_current": 0.016230505318526323, "goals_pct_change_vs_current": 0.00582581863294267, "home_win_probability_change_vs_current": -0.03331600103669352}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

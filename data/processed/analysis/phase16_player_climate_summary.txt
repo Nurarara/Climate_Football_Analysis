@@ -1,0 +1,5 @@
+Phase 16 - Player-Level Extension
+Built climate profiles for 864 players with at least 450 minutes and 8 appearances.
+Most climate-sensitive player: Kieran Dowell (Norwich City) at 51.62.
+Most weather-resilient player: Jack Stacey (Bournemouth) at -76.63.
+The profile combines rainy-vs-dry and cold-vs-normal changes in xGI per 90 and team points, then normalizes by team-strength context so weak squads do not dominate the ranking by default.

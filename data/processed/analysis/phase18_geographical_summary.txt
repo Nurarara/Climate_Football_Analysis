@@ -1,0 +1,4 @@
+Phase 18 - Geographical Analysis
+Using a median-latitude split at 52.51, northern home teams show a +0.11 rain-goal delta versus +0.06 for southern teams.
+Cold-weather goal impact is -0.12 in the North and -0.01 in the South.
+Geography changes the weather story: the same weather variables do not hit all stadium locations equally.

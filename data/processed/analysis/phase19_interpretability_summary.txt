@@ -1,0 +1,5 @@
+Phase 19 - Model Interpretability
+Top classification driver: apparent_temperature_gap with average absolute coefficient 0.2504.
+Top regression driver by permutation importance: rain at 0.0042.
+Weather accounts for roughly 68.6% of total absolute classification coefficient mass and 52.8% of positive regression permutation importance.
+Model behavior is still driven mostly by team-form and strength features, but weather features remain visible enough to explain small but real shifts in outcome probabilities and goal expectations.

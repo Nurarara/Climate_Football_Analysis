@@ -1,0 +1,6 @@
+Phase 13 - Causal Analysis
+This remains observational evidence, not a true causal proof, because the data is not randomized.
+Controlling for team strength, recent form, and seasonality, adding weather changes goal-model MAE by -0.0080.
+Controlling for the same variables, adding weather changes match-outcome accuracy by +0.0128.
+Interpretation: weather carries a small incremental signal after controls, so it is not pure noise, but the effect size is modest and should not be overstated as causal certainty.
+Top weather-linked total-goals coefficient: apparent_cold_flag.

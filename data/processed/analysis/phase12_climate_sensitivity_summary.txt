@@ -1,0 +1,5 @@
+Phase 12 - Team-Specific Climate Sensitivity
+Most affected team: Everton with a climate sensitivity index of 13.43.
+Least affected team: Sheffield United with a climate sensitivity index of -26.81.
+Highly affected teams (index >= 5): 7. Weather-resilient teams (index < 0): 13.
+The index is normalized by each team's rolling strength proxy so stronger teams are not automatically treated as climate-resilient.

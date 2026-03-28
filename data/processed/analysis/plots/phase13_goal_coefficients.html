@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-2a36e197684eee0852b462445a12549c"}, "mark": {"type": "bar", "cornerRadiusTopLeft": 6, "cornerRadiusTopRight": 6}, "encoding": {"color": {"field": "feature_group", "title": "Feature Group", "type": "nominal"}, "tooltip": [{"field": "feature", "type": "nominal"}, {"field": "feature_group", "type": "nominal"}, {"field": "coefficient", "format": ".4f", "type": "quantitative"}, {"field": "absolute_coefficient", "format": ".4f", "type": "quantitative"}], "x": {"field": "coefficient", "title": "Standardized Coefficient", "type": "quantitative"}, "y": {"field": "feature", "sort": "-x", "title": "Feature", "type": "nominal"}}, "height": 320, "title": "Phase 13 - Top Total-Goals Coefficients", "width": 620, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-2a36e197684eee0852b462445a12549c": [{"feature": "apparent_cold_flag", "coefficient": -0.15549600523692403, "feature_group": "weather", "absolute_coefficient": 0.15549600523692403}, {"feature": "freezing_flag", "coefficient": -0.1472510931221191, "feature_group": "weather", "absolute_coefficient": 0.1472510931221191}, {"feature": "match_importance_proxy", "coefficient": -0.1345752247031102, "feature_group": "control", "absolute_coefficient": 0.1345752247031102}, {"feature": "windy_flag", "coefficient": -0.11723615687453316, "feature_group": "weather", "absolute_coefficient": 0.11723615687453316}, {"feature": "season_progress", "coefficient": 0.09805534168452665, "feature_group": "control", "absolute_coefficient": 0.09805534168452665}, {"feature": "home_team_goals_for_avg_last_5", "coefficient": 0.09334216016028661, "feature_group": "control", "absolute_coefficient": 0.09334216016028661}, {"feature": "storm_flag", "coefficient": 0.08562281284070358, "feature_group": "weather", "absolute_coefficient": 0.08562281284070358}, {"feature": "is_spring_match", "coefficient": 0.08494423954914589, "feature_group": "control", "absolute_coefficient": 0.08494423954914589}, {"feature": "heavy_rain_flag", "coefficient": 0.07747732525590863, "feature_group": "weather", "absolute_coefficient": 0.07747732525590863}, {"feature": "apparent_temperature_gap", "coefficient": -0.07671413366437592, "feature_group": "weather", "absolute_coefficient": 0.07671413366437592}, {"feature": "hot_flag", "coefficient": 0.07300709408346426, "feature_group": "weather", "absolute_coefficient": 0.07300709408346426}, {"feature": "match_month", "coefficient": 0.0633946125083537, "feature_group": "control", "absolute_coefficient": 0.0633946125083537}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

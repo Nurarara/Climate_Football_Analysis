@@ -1,0 +1,4 @@
+Phase 17 - Climate Change Scenario Modeling
+In the warmer-and-wetter scenario, predicted total goals move by +0.58% versus the current climate baseline.
+The same scenario changes average home-win probability by -3.33%.
+This is not a forecast of future league reality; it is a controlled model stress test that keeps fixtures and team-strength context fixed while perturbing weather inputs.

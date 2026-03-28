@@ -1,0 +1,1901 @@
+understat_match_id,season_year_start,date,home_team,away_team
+11643,2019,2019-08-09,Liverpool,Norwich City
+11645,2019,2019-08-10,Bournemouth,Sheffield United
+11646,2019,2019-08-10,Burnley,Southampton
+11647,2019,2019-08-10,Crystal Palace,Everton
+11649,2019,2019-08-10,Tottenham Hotspur,Aston Villa
+11648,2019,2019-08-10,Watford,Brighton
+11644,2019,2019-08-10,West Ham United,Manchester City
+11651,2019,2019-08-11,Leicester City,Wolverhampton Wanderers
+11652,2019,2019-08-11,Manchester United,Chelsea
+11650,2019,2019-08-11,Newcastle United,Arsenal
+11653,2019,2019-08-17,Arsenal,Burnley
+11654,2019,2019-08-17,Aston Villa,Bournemouth
+11655,2019,2019-08-17,Brighton,West Ham United
+11656,2019,2019-08-17,Everton,Watford
+11659,2019,2019-08-17,Manchester City,Tottenham Hotspur
+11657,2019,2019-08-17,Norwich City,Newcastle United
+11658,2019,2019-08-17,Southampton,Liverpool
+11661,2019,2019-08-18,Chelsea,Leicester City
+11660,2019,2019-08-18,Sheffield United,Crystal Palace
+11662,2019,2019-08-19,Wolverhampton Wanderers,Manchester United
+11663,2019,2019-08-23,Aston Villa,Everton
+11666,2019,2019-08-24,Brighton,Southampton
+11670,2019,2019-08-24,Liverpool,Arsenal
+11669,2019,2019-08-24,Manchester United,Crystal Palace
+11664,2019,2019-08-24,Norwich City,Chelsea
+11665,2019,2019-08-24,Sheffield United,Leicester City
+11667,2019,2019-08-24,Watford,West Ham United
+11671,2019,2019-08-25,Bournemouth,Manchester City
+11672,2019,2019-08-25,Tottenham Hotspur,Newcastle United
+11668,2019,2019-08-25,Wolverhampton Wanderers,Burnley
+11680,2019,2019-08-31,Burnley,Liverpool
+11675,2019,2019-08-31,Chelsea,Sheffield United
+11676,2019,2019-08-31,Crystal Palace,Aston Villa
+11677,2019,2019-08-31,Leicester City,Bournemouth
+11678,2019,2019-08-31,Manchester City,Brighton
+11679,2019,2019-08-31,Newcastle United,Watford
+11673,2019,2019-08-31,Southampton,Manchester United
+11674,2019,2019-08-31,West Ham United,Norwich City
+11682,2019,2019-09-01,Arsenal,Tottenham Hotspur
+11681,2019,2019-09-01,Everton,Wolverhampton Wanderers
+11685,2019,2019-09-14,Brighton,Burnley
+11683,2019,2019-09-14,Liverpool,Newcastle United
+11684,2019,2019-09-14,Manchester United,Leicester City
+11689,2019,2019-09-14,Norwich City,Manchester City
+11686,2019,2019-09-14,Sheffield United,Southampton
+11687,2019,2019-09-14,Tottenham Hotspur,Crystal Palace
+11688,2019,2019-09-14,Wolverhampton Wanderers,Chelsea
+11690,2019,2019-09-15,Bournemouth,Everton
+11691,2019,2019-09-15,Watford,Arsenal
+11692,2019,2019-09-16,Aston Villa,West Ham United
+11693,2019,2019-09-20,Southampton,Bournemouth
+11696,2019,2019-09-21,Burnley,Norwich City
+11698,2019,2019-09-21,Everton,Sheffield United
+11694,2019,2019-09-21,Leicester City,Tottenham Hotspur
+11695,2019,2019-09-21,Manchester City,Watford
+11699,2019,2019-09-21,Newcastle United,Brighton
+11702,2019,2019-09-22,Arsenal,Aston Villa
+11701,2019,2019-09-22,Chelsea,Liverpool
+11697,2019,2019-09-22,Crystal Palace,Wolverhampton Wanderers
+11700,2019,2019-09-22,West Ham United,Manchester United
+11706,2019,2019-09-28,Aston Villa,Burnley
+11707,2019,2019-09-28,Bournemouth,West Ham United
+11708,2019,2019-09-28,Chelsea,Brighton
+11709,2019,2019-09-28,Crystal Palace,Norwich City
+11711,2019,2019-09-28,Everton,Manchester City
+11703,2019,2019-09-28,Sheffield United,Liverpool
+11704,2019,2019-09-28,Tottenham Hotspur,Southampton
+11705,2019,2019-09-28,Wolverhampton Wanderers,Watford
+11710,2019,2019-09-29,Leicester City,Newcastle United
+11712,2019,2019-09-30,Manchester United,Arsenal
+11713,2019,2019-10-05,Brighton,Tottenham Hotspur
+11714,2019,2019-10-05,Burnley,Everton
+11715,2019,2019-10-05,Liverpool,Leicester City
+11717,2019,2019-10-05,Norwich City,Aston Villa
+11719,2019,2019-10-05,Watford,Sheffield United
+11720,2019,2019-10-05,West Ham United,Crystal Palace
+11722,2019,2019-10-06,Arsenal,Bournemouth
+11716,2019,2019-10-06,Manchester City,Wolverhampton Wanderers
+11721,2019,2019-10-06,Newcastle United,Manchester United
+11718,2019,2019-10-06,Southampton,Chelsea
+11723,2019,2019-10-19,Aston Villa,Brighton
+11724,2019,2019-10-19,Bournemouth,Norwich City
+11725,2019,2019-10-19,Chelsea,Newcastle United
+11726,2019,2019-10-19,Crystal Palace,Manchester City
+11727,2019,2019-10-19,Everton,West Ham United
+11728,2019,2019-10-19,Leicester City,Burnley
+11731,2019,2019-10-19,Tottenham Hotspur,Watford
+11732,2019,2019-10-19,Wolverhampton Wanderers,Southampton
+11729,2019,2019-10-20,Manchester United,Liverpool
+11730,2019,2019-10-21,Sheffield United,Arsenal
+11740,2019,2019-10-25,Southampton,Leicester City
+11734,2019,2019-10-26,Brighton,Everton
+11735,2019,2019-10-26,Burnley,Chelsea
+11737,2019,2019-10-26,Manchester City,Aston Villa
+11741,2019,2019-10-26,Watford,Bournemouth
+11742,2019,2019-10-26,West Ham United,Sheffield United
+11733,2019,2019-10-27,Arsenal,Crystal Palace
+11736,2019,2019-10-27,Liverpool,Tottenham Hotspur
+11738,2019,2019-10-27,Newcastle United,Wolverhampton Wanderers
+11739,2019,2019-10-27,Norwich City,Manchester United
+11743,2019,2019-11-02,Arsenal,Wolverhampton Wanderers
+11744,2019,2019-11-02,Aston Villa,Liverpool
+11745,2019,2019-11-02,Bournemouth,Manchester United
+11746,2019,2019-11-02,Brighton,Norwich City
+11749,2019,2019-11-02,Manchester City,Southampton
+11750,2019,2019-11-02,Sheffield United,Burnley
+11751,2019,2019-11-02,Watford,Chelsea
+11752,2019,2019-11-02,West Ham United,Newcastle United
+11747,2019,2019-11-03,Crystal Palace,Leicester City
+11748,2019,2019-11-03,Everton,Tottenham Hotspur
+11757,2019,2019-11-08,Norwich City,Watford
+11753,2019,2019-11-09,Burnley,West Ham United
+11754,2019,2019-11-09,Chelsea,Crystal Palace
+11762,2019,2019-11-09,Leicester City,Arsenal
+11756,2019,2019-11-09,Newcastle United,Bournemouth
+11758,2019,2019-11-09,Southampton,Everton
+11759,2019,2019-11-09,Tottenham Hotspur,Sheffield United
+11755,2019,2019-11-10,Liverpool,Manchester City
+11761,2019,2019-11-10,Manchester United,Brighton
+11760,2019,2019-11-10,Wolverhampton Wanderers,Aston Villa
+11763,2019,2019-11-23,Arsenal,Southampton
+11765,2019,2019-11-23,Bournemouth,Wolverhampton Wanderers
+11766,2019,2019-11-23,Brighton,Leicester City
+11767,2019,2019-11-23,Crystal Palace,Liverpool
+11768,2019,2019-11-23,Everton,Norwich City
+11769,2019,2019-11-23,Manchester City,Chelsea
+11771,2019,2019-11-23,Watford,Burnley
+11772,2019,2019-11-23,West Ham United,Tottenham Hotspur
+11770,2019,2019-11-24,Sheffield United,Manchester United
+11764,2019,2019-11-25,Aston Villa,Newcastle United
+11773,2019,2019-11-30,Burnley,Crystal Palace
+11774,2019,2019-11-30,Chelsea,West Ham United
+11776,2019,2019-11-30,Liverpool,Brighton
+11777,2019,2019-11-30,Newcastle United,Manchester City
+11778,2019,2019-11-30,Southampton,Watford
+11779,2019,2019-11-30,Tottenham Hotspur,Bournemouth
+11775,2019,2019-12-01,Leicester City,Everton
+11782,2019,2019-12-01,Manchester United,Aston Villa
+11781,2019,2019-12-01,Norwich City,Arsenal
+11780,2019,2019-12-01,Wolverhampton Wanderers,Sheffield United
+11784,2019,2019-12-03,Burnley,Manchester City
+11791,2019,2019-12-03,Crystal Palace,Bournemouth
+11789,2019,2019-12-04,Chelsea,Aston Villa
+11785,2019,2019-12-04,Leicester City,Watford
+11792,2019,2019-12-04,Liverpool,Everton
+11788,2019,2019-12-04,Manchester United,Tottenham Hotspur
+11790,2019,2019-12-04,Southampton,Norwich City
+11787,2019,2019-12-04,Wolverhampton Wanderers,West Ham United
+11783,2019,2019-12-05,Arsenal,Brighton
+11786,2019,2019-12-05,Sheffield United,Newcastle United
+11794,2019,2019-12-07,Bournemouth,Liverpool
+11796,2019,2019-12-07,Everton,Chelsea
+11797,2019,2019-12-07,Manchester City,Manchester United
+11800,2019,2019-12-07,Tottenham Hotspur,Burnley
+11801,2019,2019-12-07,Watford,Crystal Palace
+11793,2019,2019-12-08,Aston Villa,Leicester City
+11795,2019,2019-12-08,Brighton,Wolverhampton Wanderers
+11798,2019,2019-12-08,Newcastle United,Southampton
+11799,2019,2019-12-08,Norwich City,Sheffield United
+11802,2019,2019-12-09,West Ham United,Arsenal
+11804,2019,2019-12-14,Burnley,Newcastle United
+11805,2019,2019-12-14,Chelsea,Bournemouth
+11807,2019,2019-12-14,Leicester City,Norwich City
+11808,2019,2019-12-14,Liverpool,Watford
+11810,2019,2019-12-14,Sheffield United,Aston Villa
+11811,2019,2019-12-14,Southampton,West Ham United
+11803,2019,2019-12-15,Arsenal,Manchester City
+11809,2019,2019-12-15,Manchester United,Everton
+11812,2019,2019-12-15,Wolverhampton Wanderers,Tottenham Hotspur
+11806,2019,2019-12-16,Crystal Palace,Brighton
+11813,2019,2019-12-21,Aston Villa,Southampton
+11814,2019,2019-12-21,Bournemouth,Burnley
+11815,2019,2019-12-21,Brighton,Sheffield United
+11816,2019,2019-12-21,Everton,Arsenal
+11817,2019,2019-12-21,Manchester City,Leicester City
+11818,2019,2019-12-21,Newcastle United,Crystal Palace
+11819,2019,2019-12-21,Norwich City,Wolverhampton Wanderers
+11820,2019,2019-12-22,Tottenham Hotspur,Chelsea
+11821,2019,2019-12-22,Watford,Manchester United
+11823,2019,2019-12-26,Aston Villa,Norwich City
+11824,2019,2019-12-26,Bournemouth,Arsenal
+11825,2019,2019-12-26,Chelsea,Southampton
+11826,2019,2019-12-26,Crystal Palace,West Ham United
+11827,2019,2019-12-26,Everton,Burnley
+11828,2019,2019-12-26,Leicester City,Liverpool
+11829,2019,2019-12-26,Manchester United,Newcastle United
+11830,2019,2019-12-26,Sheffield United,Watford
+11831,2019,2019-12-26,Tottenham Hotspur,Brighton
+11832,2019,2019-12-27,Wolverhampton Wanderers,Manchester City
+11834,2019,2019-12-28,Brighton,Bournemouth
+11835,2019,2019-12-28,Burnley,Manchester United
+11838,2019,2019-12-28,Newcastle United,Everton
+11839,2019,2019-12-28,Norwich City,Tottenham Hotspur
+11840,2019,2019-12-28,Southampton,Crystal Palace
+11841,2019,2019-12-28,Watford,Aston Villa
+11842,2019,2019-12-28,West Ham United,Leicester City
+11833,2019,2019-12-29,Arsenal,Chelsea
+11836,2019,2019-12-29,Liverpool,Wolverhampton Wanderers
+11837,2019,2019-12-29,Manchester City,Sheffield United
+11844,2019,2020-01-01,Arsenal,Manchester United
+11845,2019,2020-01-01,Brighton,Chelsea
+11846,2019,2020-01-01,Burnley,Aston Villa
+11848,2019,2020-01-01,Manchester City,Everton
+11849,2019,2020-01-01,Newcastle United,Leicester City
+11850,2019,2020-01-01,Norwich City,Crystal Palace
+11851,2019,2020-01-01,Southampton,Tottenham Hotspur
+11852,2019,2020-01-01,Watford,Wolverhampton Wanderers
+11843,2019,2020-01-01,West Ham United,Bournemouth
+11847,2019,2020-01-02,Liverpool,Sheffield United
+11855,2019,2020-01-10,Sheffield United,West Ham United
+11858,2019,2020-01-11,Chelsea,Burnley
+11859,2019,2020-01-11,Crystal Palace,Arsenal
+11860,2019,2020-01-11,Everton,Brighton
+11861,2019,2020-01-11,Leicester City,Southampton
+11862,2019,2020-01-11,Manchester United,Norwich City
+11854,2019,2020-01-11,Tottenham Hotspur,Liverpool
+11853,2019,2020-01-11,Wolverhampton Wanderers,Newcastle United
+11856,2019,2020-01-12,Aston Villa,Manchester City
+11857,2019,2020-01-12,Bournemouth,Watford
+11863,2019,2020-01-18,Arsenal,Sheffield United
+11867,2019,2020-01-18,Brighton,Aston Villa
+11864,2019,2020-01-18,Manchester City,Crystal Palace
+11868,2019,2020-01-18,Newcastle United,Chelsea
+11869,2019,2020-01-18,Norwich City,Bournemouth
+11870,2019,2020-01-18,Southampton,Wolverhampton Wanderers
+11871,2019,2020-01-18,Watford,Tottenham Hotspur
+11872,2019,2020-01-18,West Ham United,Everton
+11866,2019,2020-01-19,Burnley,Leicester City
+11865,2019,2020-01-19,Liverpool,Manchester United
+11873,2019,2020-01-21,Aston Villa,Watford
+11878,2019,2020-01-21,Bournemouth,Brighton
+11881,2019,2020-01-21,Chelsea,Arsenal
+11882,2019,2020-01-21,Crystal Palace,Southampton
+11877,2019,2020-01-21,Everton,Newcastle United
+11875,2019,2020-01-21,Sheffield United,Manchester City
+11876,2019,2020-01-22,Leicester City,West Ham United
+11879,2019,2020-01-22,Manchester United,Burnley
+11880,2019,2020-01-22,Tottenham Hotspur,Norwich City
+11874,2019,2020-01-23,Wolverhampton Wanderers,Liverpool
+11822,2019,2020-01-29,West Ham United,Liverpool
+11883,2019,2020-02-01,Bournemouth,Aston Villa
+11885,2019,2020-02-01,Crystal Palace,Sheffield United
+11886,2019,2020-02-01,Leicester City,Chelsea
+11887,2019,2020-02-01,Liverpool,Southampton
+11888,2019,2020-02-01,Manchester United,Wolverhampton Wanderers
+11889,2019,2020-02-01,Newcastle United,Norwich City
+11891,2019,2020-02-01,Watford,Everton
+11892,2019,2020-02-01,West Ham United,Brighton
+11884,2019,2020-02-02,Burnley,Arsenal
+11890,2019,2020-02-02,Tottenham Hotspur,Manchester City
+11895,2019,2020-02-08,Brighton,Watford
+11897,2019,2020-02-08,Everton,Crystal Palace
+11900,2019,2020-02-09,Sheffield United,Bournemouth
+11902,2019,2020-02-14,Wolverhampton Wanderers,Leicester City
+11899,2019,2020-02-15,Norwich City,Liverpool
+11901,2019,2020-02-15,Southampton,Burnley
+11893,2019,2020-02-16,Arsenal,Newcastle United
+11894,2019,2020-02-16,Aston Villa,Tottenham Hotspur
+11896,2019,2020-02-17,Chelsea,Manchester United
+11898,2019,2020-02-19,Manchester City,West Ham United
+11907,2019,2020-02-22,Burnley,Bournemouth
+11906,2019,2020-02-22,Chelsea,Tottenham Hotspur
+11905,2019,2020-02-22,Crystal Palace,Newcastle United
+11904,2019,2020-02-22,Leicester City,Manchester City
+11909,2019,2020-02-22,Sheffield United,Brighton
+11908,2019,2020-02-22,Southampton,Aston Villa
+11903,2019,2020-02-23,Arsenal,Everton
+11910,2019,2020-02-23,Manchester United,Watford
+11912,2019,2020-02-23,Wolverhampton Wanderers,Norwich City
+11911,2019,2020-02-24,Liverpool,West Ham United
+11919,2019,2020-02-28,Norwich City,Leicester City
+11914,2019,2020-02-29,Bournemouth,Chelsea
+11915,2019,2020-02-29,Brighton,Crystal Palace
+11918,2019,2020-02-29,Newcastle United,Burnley
+11921,2019,2020-02-29,Watford,Liverpool
+11922,2019,2020-02-29,West Ham United,Southampton
+11916,2019,2020-03-01,Everton,Manchester United
+11920,2019,2020-03-01,Tottenham Hotspur,Wolverhampton Wanderers
+11923,2019,2020-03-07,Arsenal,West Ham United
+11924,2019,2020-03-07,Burnley,Tottenham Hotspur
+11926,2019,2020-03-07,Crystal Palace,Watford
+11928,2019,2020-03-07,Liverpool,Bournemouth
+11929,2019,2020-03-07,Sheffield United,Norwich City
+11930,2019,2020-03-07,Southampton,Newcastle United
+11931,2019,2020-03-07,Wolverhampton Wanderers,Brighton
+11925,2019,2020-03-08,Chelsea,Everton
+11932,2019,2020-03-08,Manchester United,Manchester City
+11927,2019,2020-03-09,Leicester City,Aston Villa
+11913,2019,2020-06-17,Aston Villa,Sheffield United
+11917,2019,2020-06-17,Manchester City,Arsenal
+11937,2019,2020-06-19,Norwich City,Southampton
+11936,2019,2020-06-19,Tottenham Hotspur,Manchester United
+11942,2019,2020-06-20,Bournemouth,Crystal Palace
+11941,2019,2020-06-20,Brighton,Arsenal
+11935,2019,2020-06-20,Watford,Leicester City
+11934,2019,2020-06-20,West Ham United,Wolverhampton Wanderers
+11933,2019,2020-06-21,Aston Villa,Chelsea
+11940,2019,2020-06-21,Everton,Liverpool
+11938,2019,2020-06-21,Newcastle United,Sheffield United
+11939,2019,2020-06-22,Manchester City,Burnley
+11945,2019,2020-06-23,Leicester City,Brighton
+11944,2019,2020-06-23,Tottenham Hotspur,West Ham United
+11951,2019,2020-06-24,Liverpool,Crystal Palace
+11950,2019,2020-06-24,Manchester United,Sheffield United
+11949,2019,2020-06-24,Newcastle United,Aston Villa
+11948,2019,2020-06-24,Norwich City,Everton
+11947,2019,2020-06-24,Wolverhampton Wanderers,Bournemouth
+11943,2019,2020-06-25,Burnley,Watford
+11946,2019,2020-06-25,Chelsea,Manchester City
+11952,2019,2020-06-25,Southampton,Arsenal
+11954,2019,2020-06-27,Aston Villa,Wolverhampton Wanderers
+11961,2019,2020-06-28,Watford,Southampton
+11957,2019,2020-06-29,Crystal Palace,Burnley
+11956,2019,2020-06-30,Brighton,Manchester United
+11953,2019,2020-07-01,Arsenal,Norwich City
+11955,2019,2020-07-01,Bournemouth,Newcastle United
+11958,2019,2020-07-01,Everton,Leicester City
+11962,2019,2020-07-01,West Ham United,Chelsea
+11959,2019,2020-07-02,Manchester City,Liverpool
+11960,2019,2020-07-02,Sheffield United,Tottenham Hotspur
+11964,2019,2020-07-04,Chelsea,Watford
+11965,2019,2020-07-04,Leicester City,Crystal Palace
+11967,2019,2020-07-04,Manchester United,Bournemouth
+11969,2019,2020-07-04,Norwich City,Brighton
+11972,2019,2020-07-04,Wolverhampton Wanderers,Arsenal
+11963,2019,2020-07-05,Burnley,Sheffield United
+11966,2019,2020-07-05,Liverpool,Aston Villa
+11968,2019,2020-07-05,Newcastle United,West Ham United
+11970,2019,2020-07-05,Southampton,Manchester City
+11971,2019,2020-07-06,Tottenham Hotspur,Everton
+11973,2019,2020-07-07,Arsenal,Leicester City
+11977,2019,2020-07-07,Crystal Palace,Chelsea
+11981,2019,2020-07-07,Watford,Norwich City
+11976,2019,2020-07-08,Brighton,Liverpool
+11979,2019,2020-07-08,Manchester City,Newcastle United
+11980,2019,2020-07-08,Sheffield United,Wolverhampton Wanderers
+11982,2019,2020-07-08,West Ham United,Burnley
+11974,2019,2020-07-09,Aston Villa,Manchester United
+11975,2019,2020-07-09,Bournemouth,Tottenham Hotspur
+11978,2019,2020-07-09,Everton,Southampton
+11985,2019,2020-07-11,Brighton,Manchester City
+11986,2019,2020-07-11,Liverpool,Burnley
+11988,2019,2020-07-11,Norwich City,West Ham United
+11989,2019,2020-07-11,Sheffield United,Chelsea
+11991,2019,2020-07-11,Watford,Newcastle United
+11983,2019,2020-07-12,Aston Villa,Crystal Palace
+11984,2019,2020-07-12,Bournemouth,Leicester City
+11990,2019,2020-07-12,Tottenham Hotspur,Arsenal
+11992,2019,2020-07-12,Wolverhampton Wanderers,Everton
+11987,2019,2020-07-13,Manchester United,Southampton
+11995,2019,2020-07-14,Chelsea,Norwich City
+11993,2019,2020-07-15,Arsenal,Liverpool
+11994,2019,2020-07-15,Burnley,Wolverhampton Wanderers
+11999,2019,2020-07-15,Manchester City,Bournemouth
+12000,2019,2020-07-15,Newcastle United,Tottenham Hotspur
+11996,2019,2020-07-16,Crystal Palace,Manchester United
+11997,2019,2020-07-16,Everton,Aston Villa
+11998,2019,2020-07-16,Leicester City,Sheffield United
+12002,2019,2020-07-16,Southampton,Brighton
+12001,2019,2020-07-17,West Ham United,Watford
+12008,2019,2020-07-18,Norwich City,Burnley
+12004,2019,2020-07-19,Bournemouth,Southampton
+12010,2019,2020-07-19,Tottenham Hotspur,Leicester City
+12005,2019,2020-07-20,Brighton,Newcastle United
+12009,2019,2020-07-20,Sheffield United,Everton
+12012,2019,2020-07-20,Wolverhampton Wanderers,Crystal Palace
+12003,2019,2020-07-21,Aston Villa,Arsenal
+12011,2019,2020-07-21,Watford,Manchester City
+12006,2019,2020-07-22,Liverpool,Chelsea
+12007,2019,2020-07-22,Manchester United,West Ham United
+12014,2019,2020-07-26,Arsenal,Watford
+12022,2019,2020-07-26,Burnley,Brighton
+12021,2019,2020-07-26,Chelsea,Wolverhampton Wanderers
+12020,2019,2020-07-26,Crystal Palace,Tottenham Hotspur
+12019,2019,2020-07-26,Everton,Bournemouth
+12018,2019,2020-07-26,Leicester City,Manchester United
+12017,2019,2020-07-26,Manchester City,Norwich City
+12016,2019,2020-07-26,Newcastle United,Liverpool
+12015,2019,2020-07-26,Southampton,Sheffield United
+12013,2019,2020-07-26,West Ham United,Aston Villa
+14087,2020,2020-09-12,Crystal Palace,Southampton
+14086,2020,2020-09-12,Fulham,Arsenal
+14090,2020,2020-09-12,Liverpool,Leeds United
+14091,2020,2020-09-12,West Ham United,Newcastle United
+14093,2020,2020-09-13,Tottenham Hotspur,Everton
+14092,2020,2020-09-13,West Bromwich Albion,Leicester City
+14095,2020,2020-09-14,Brighton,Chelsea
+14094,2020,2020-09-14,Sheffield United,Wolverhampton Wanderers
+14099,2020,2020-09-19,Arsenal,West Ham United
+14096,2020,2020-09-19,Everton,West Bromwich Albion
+14097,2020,2020-09-19,Leeds United,Fulham
+14098,2020,2020-09-19,Manchester United,Crystal Palace
+14102,2020,2020-09-20,Chelsea,Liverpool
+14103,2020,2020-09-20,Leicester City,Burnley
+14101,2020,2020-09-20,Newcastle United,Brighton
+14100,2020,2020-09-20,Southampton,Tottenham Hotspur
+14104,2020,2020-09-21,Aston Villa,Sheffield United
+14105,2020,2020-09-21,Wolverhampton Wanderers,Manchester City
+14106,2020,2020-09-26,Brighton,Manchester United
+14109,2020,2020-09-26,Burnley,Southampton
+14107,2020,2020-09-26,Crystal Palace,Everton
+14108,2020,2020-09-26,West Bromwich Albion,Chelsea
+14112,2020,2020-09-27,Manchester City,Leicester City
+14110,2020,2020-09-27,Sheffield United,Leeds United
+14111,2020,2020-09-27,Tottenham Hotspur,Newcastle United
+14113,2020,2020-09-27,West Ham United,Wolverhampton Wanderers
+14114,2020,2020-09-28,Fulham,Aston Villa
+14115,2020,2020-09-28,Liverpool,Arsenal
+14467,2020,2020-10-03,Chelsea,Crystal Palace
+14468,2020,2020-10-03,Everton,Brighton
+14469,2020,2020-10-03,Leeds United,Manchester City
+14472,2020,2020-10-03,Newcastle United,Burnley
+14465,2020,2020-10-04,Arsenal,Sheffield United
+14466,2020,2020-10-04,Aston Villa,Liverpool
+14470,2020,2020-10-04,Leicester City,West Ham United
+14471,2020,2020-10-04,Manchester United,Tottenham Hotspur
+14473,2020,2020-10-04,Southampton,West Bromwich Albion
+14474,2020,2020-10-04,Wolverhampton Wanderers,Fulham
+14475,2020,2020-10-17,Chelsea,Southampton
+14477,2020,2020-10-17,Everton,Liverpool
+14480,2020,2020-10-17,Manchester City,Arsenal
+14481,2020,2020-10-17,Newcastle United,Manchester United
+14476,2020,2020-10-18,Crystal Palace,Brighton
+14479,2020,2020-10-18,Leicester City,Aston Villa
+14482,2020,2020-10-18,Sheffield United,Fulham
+14483,2020,2020-10-18,Tottenham Hotspur,West Ham United
+14478,2020,2020-10-19,Leeds United,Wolverhampton Wanderers
+14484,2020,2020-10-19,West Bromwich Albion,Burnley
+14486,2020,2020-10-23,Aston Villa,Leeds United
+14489,2020,2020-10-24,Fulham,Crystal Palace
+14490,2020,2020-10-24,Liverpool,Sheffield United
+14491,2020,2020-10-24,Manchester United,Chelsea
+14493,2020,2020-10-24,West Ham United,Manchester City
+14485,2020,2020-10-25,Arsenal,Leicester City
+14492,2020,2020-10-25,Southampton,Everton
+14494,2020,2020-10-25,Wolverhampton Wanderers,Newcastle United
+14487,2020,2020-10-26,Brighton,West Bromwich Albion
+14488,2020,2020-10-26,Burnley,Tottenham Hotspur
+14504,2020,2020-10-30,Wolverhampton Wanderers,Crystal Palace
+14496,2020,2020-10-31,Burnley,Chelsea
+14499,2020,2020-10-31,Liverpool,West Ham United
+14502,2020,2020-10-31,Sheffield United,Manchester City
+14495,2020,2020-11-01,Aston Villa,Southampton
+14500,2020,2020-11-01,Manchester United,Arsenal
+14501,2020,2020-11-01,Newcastle United,Everton
+14503,2020,2020-11-01,Tottenham Hotspur,Brighton
+14497,2020,2020-11-02,Fulham,West Bromwich Albion
+14498,2020,2020-11-02,Leeds United,Leicester City
+14506,2020,2020-11-06,Brighton,Burnley
+14512,2020,2020-11-06,Southampton,Newcastle United
+14507,2020,2020-11-07,Chelsea,Sheffield United
+14508,2020,2020-11-07,Crystal Palace,Leeds United
+14509,2020,2020-11-07,Everton,Manchester United
+14514,2020,2020-11-07,West Ham United,Fulham
+14505,2020,2020-11-08,Arsenal,Aston Villa
+14510,2020,2020-11-08,Leicester City,Wolverhampton Wanderers
+14511,2020,2020-11-08,Manchester City,Liverpool
+14513,2020,2020-11-08,West Bromwich Albion,Tottenham Hotspur
+14515,2020,2020-11-21,Aston Villa,Brighton
+14520,2020,2020-11-21,Manchester United,West Bromwich Albion
+14521,2020,2020-11-21,Newcastle United,Chelsea
+14523,2020,2020-11-21,Tottenham Hotspur,Manchester City
+14517,2020,2020-11-22,Fulham,Everton
+14518,2020,2020-11-22,Leeds United,Arsenal
+14519,2020,2020-11-22,Liverpool,Leicester City
+14522,2020,2020-11-22,Sheffield United,West Ham United
+14516,2020,2020-11-23,Burnley,Crystal Palace
+14524,2020,2020-11-23,Wolverhampton Wanderers,Southampton
+14530,2020,2020-11-27,Crystal Palace,Newcastle United
+14528,2020,2020-11-28,Brighton,Liverpool
+14531,2020,2020-11-28,Everton,Leeds United
+14533,2020,2020-11-28,Manchester City,Burnley
+14527,2020,2020-11-28,West Bromwich Albion,Sheffield United
+14525,2020,2020-11-29,Arsenal,Wolverhampton Wanderers
+14529,2020,2020-11-29,Chelsea,Tottenham Hotspur
+14534,2020,2020-11-29,Southampton,Manchester United
+14532,2020,2020-11-30,Leicester City,Fulham
+14526,2020,2020-11-30,West Ham United,Aston Villa
+14537,2020,2020-12-05,Burnley,Everton
+14538,2020,2020-12-05,Chelsea,Leeds United
+14540,2020,2020-12-05,Manchester City,Fulham
+14544,2020,2020-12-05,West Ham United,Manchester United
+14539,2020,2020-12-06,Liverpool,Wolverhampton Wanderers
+14541,2020,2020-12-06,Sheffield United,Leicester City
+14542,2020,2020-12-06,Tottenham Hotspur,Arsenal
+14543,2020,2020-12-06,West Bromwich Albion,Crystal Palace
+14536,2020,2020-12-07,Brighton,Southampton
+14548,2020,2020-12-11,Leeds United,West Ham United
+14546,2020,2020-12-12,Everton,Chelsea
+14549,2020,2020-12-12,Manchester United,Manchester City
+14550,2020,2020-12-12,Newcastle United,West Bromwich Albion
+14552,2020,2020-12-12,Wolverhampton Wanderers,Aston Villa
+14554,2020,2020-12-13,Arsenal,Burnley
+14545,2020,2020-12-13,Crystal Palace,Tottenham Hotspur
+14547,2020,2020-12-13,Fulham,Liverpool
+14553,2020,2020-12-13,Leicester City,Brighton
+14551,2020,2020-12-13,Southampton,Sheffield United
+14564,2020,2020-12-15,Manchester City,West Bromwich Albion
+14562,2020,2020-12-15,Wolverhampton Wanderers,Chelsea
+14555,2020,2020-12-16,Arsenal,Southampton
+14557,2020,2020-12-16,Fulham,Brighton
+14558,2020,2020-12-16,Leeds United,Newcastle United
+14559,2020,2020-12-16,Leicester City,Everton
+14563,2020,2020-12-16,Liverpool,Tottenham Hotspur
+14561,2020,2020-12-16,West Ham United,Crystal Palace
+14556,2020,2020-12-17,Aston Villa,Burnley
+14560,2020,2020-12-17,Sheffield United,Manchester United
+14568,2020,2020-12-19,Crystal Palace,Liverpool
+14569,2020,2020-12-19,Everton,Arsenal
+14571,2020,2020-12-19,Newcastle United,Fulham
+14572,2020,2020-12-19,Southampton,Manchester City
+14565,2020,2020-12-20,Brighton,Sheffield United
+14570,2020,2020-12-20,Manchester United,Leeds United
+14573,2020,2020-12-20,Tottenham Hotspur,Leicester City
+14574,2020,2020-12-20,West Bromwich Albion,Aston Villa
+14566,2020,2020-12-21,Burnley,Wolverhampton Wanderers
+14567,2020,2020-12-21,Chelsea,West Ham United
+14575,2020,2020-12-26,Arsenal,Chelsea
+14576,2020,2020-12-26,Aston Villa,Crystal Palace
+14577,2020,2020-12-26,Fulham,Southampton
+14579,2020,2020-12-26,Leicester City,Manchester United
+14581,2020,2020-12-26,Manchester City,Newcastle United
+14582,2020,2020-12-26,Sheffield United,Everton
+14578,2020,2020-12-27,Leeds United,Burnley
+14580,2020,2020-12-27,Liverpool,West Bromwich Albion
+14583,2020,2020-12-27,West Ham United,Brighton
+14584,2020,2020-12-27,Wolverhampton Wanderers,Tottenham Hotspur
+14586,2020,2020-12-28,Chelsea,Aston Villa
+14594,2020,2020-12-28,Crystal Palace,Leicester City
+14585,2020,2020-12-29,Brighton,Arsenal
+14587,2020,2020-12-29,Burnley,Sheffield United
+14592,2020,2020-12-29,Manchester United,Wolverhampton Wanderers
+14588,2020,2020-12-29,Southampton,West Ham United
+14590,2020,2020-12-29,West Bromwich Albion,Leeds United
+14591,2020,2020-12-30,Newcastle United,Liverpool
+14595,2020,2021-01-01,Everton,West Ham United
+14596,2020,2021-01-01,Manchester United,Aston Villa
+14601,2020,2021-01-02,Brighton,Wolverhampton Wanderers
+14604,2020,2021-01-02,Crystal Palace,Sheffield United
+14599,2020,2021-01-02,Tottenham Hotspur,Leeds United
+14600,2020,2021-01-02,West Bromwich Albion,Arsenal
+14603,2020,2021-01-03,Chelsea,Manchester City
+14597,2020,2021-01-03,Newcastle United,Leicester City
+14598,2020,2021-01-04,Southampton,Liverpool
+14088,2020,2021-01-12,Burnley,Manchester United
+14610,2020,2021-01-12,Sheffield United,Newcastle United
+14612,2020,2021-01-12,Wolverhampton Wanderers,Everton
+14614,2020,2021-01-13,Manchester City,Brighton
+14589,2020,2021-01-13,Tottenham Hotspur,Fulham
+14605,2020,2021-01-14,Arsenal,Crystal Palace
+14617,2020,2021-01-16,Fulham,Chelsea
+14618,2020,2021-01-16,Leeds United,Brighton
+14619,2020,2021-01-16,Leicester City,Southampton
+14623,2020,2021-01-16,West Ham United,Burnley
+14624,2020,2021-01-16,Wolverhampton Wanderers,West Bromwich Albion
+14620,2020,2021-01-17,Liverpool,Manchester United
+14621,2020,2021-01-17,Manchester City,Crystal Palace
+14622,2020,2021-01-17,Sheffield United,Tottenham Hotspur
+14615,2020,2021-01-18,Arsenal,Newcastle United
+14609,2020,2021-01-19,Leicester City,Chelsea
+14611,2020,2021-01-19,West Ham United,West Bromwich Albion
+14607,2020,2021-01-20,Fulham,Manchester United
+14089,2020,2021-01-20,Manchester City,Aston Villa
+14613,2020,2021-01-21,Liverpool,Burnley
+14535,2020,2021-01-23,Aston Villa,Newcastle United
+14634,2020,2021-01-26,Crystal Palace,West Ham United
+14631,2020,2021-01-26,Newcastle United,Leeds United
+14632,2020,2021-01-26,Southampton,Arsenal
+14629,2020,2021-01-26,West Bromwich Albion,Manchester City
+14625,2020,2021-01-27,Brighton,Fulham
+14626,2020,2021-01-27,Burnley,Aston Villa
+14630,2020,2021-01-27,Chelsea,Wolverhampton Wanderers
+14627,2020,2021-01-27,Everton,Leicester City
+14628,2020,2021-01-27,Manchester United,Sheffield United
+14633,2020,2021-01-28,Tottenham Hotspur,Liverpool
+14635,2020,2021-01-30,Arsenal,Manchester United
+14638,2020,2021-01-30,Crystal Palace,Wolverhampton Wanderers
+14644,2020,2021-01-30,Everton,Newcastle United
+14642,2020,2021-01-30,Manchester City,Sheffield United
+14641,2020,2021-01-30,Southampton,Aston Villa
+14640,2020,2021-01-30,West Bromwich Albion,Fulham
+14636,2020,2021-01-31,Brighton,Tottenham Hotspur
+14637,2020,2021-01-31,Chelsea,Burnley
+14643,2020,2021-01-31,Leicester City,Leeds United
+14639,2020,2021-01-31,West Ham United,Liverpool
+14651,2020,2021-02-02,Manchester United,Southampton
+14652,2020,2021-02-02,Newcastle United,Crystal Palace
+14649,2020,2021-02-02,Sheffield United,West Bromwich Albion
+14650,2020,2021-02-02,Wolverhampton Wanderers,Arsenal
+14645,2020,2021-02-03,Aston Villa,West Ham United
+14646,2020,2021-02-03,Burnley,Manchester City
+14647,2020,2021-02-03,Fulham,Leicester City
+14648,2020,2021-02-03,Leeds United,Everton
+14654,2020,2021-02-03,Liverpool,Brighton
+14653,2020,2021-02-04,Tottenham Hotspur,Chelsea
+14655,2020,2021-02-06,Aston Villa,Arsenal
+14656,2020,2021-02-06,Burnley,Brighton
+14657,2020,2021-02-06,Fulham,West Ham United
+14660,2020,2021-02-06,Manchester United,Everton
+14661,2020,2021-02-06,Newcastle United,Southampton
+14659,2020,2021-02-07,Liverpool,Manchester City
+14662,2020,2021-02-07,Sheffield United,Chelsea
+14663,2020,2021-02-07,Tottenham Hotspur,West Bromwich Albion
+14664,2020,2021-02-07,Wolverhampton Wanderers,Leicester City
+14658,2020,2021-02-08,Leeds United,Crystal Palace
+14666,2020,2021-02-13,Brighton,Aston Villa
+14668,2020,2021-02-13,Crystal Palace,Burnley
+14670,2020,2021-02-13,Leicester City,Liverpool
+14671,2020,2021-02-13,Manchester City,Tottenham Hotspur
+14665,2020,2021-02-14,Arsenal,Leeds United
+14669,2020,2021-02-14,Everton,Fulham
+14672,2020,2021-02-14,Southampton,Wolverhampton Wanderers
+14673,2020,2021-02-14,West Bromwich Albion,Manchester United
+14667,2020,2021-02-15,Chelsea,Newcastle United
+14674,2020,2021-02-15,West Ham United,Sheffield United
+14602,2020,2021-02-17,Burnley,Fulham
+14593,2020,2021-02-17,Everton,Manchester City
+14684,2020,2021-02-19,Wolverhampton Wanderers,Leeds United
+14678,2020,2021-02-20,Burnley,West Bromwich Albion
+14679,2020,2021-02-20,Fulham,Sheffield United
+14680,2020,2021-02-20,Liverpool,Everton
+14682,2020,2021-02-20,Southampton,Chelsea
+14675,2020,2021-02-21,Arsenal,Manchester City
+14676,2020,2021-02-21,Aston Villa,Leicester City
+14681,2020,2021-02-21,Manchester United,Newcastle United
+14683,2020,2021-02-21,West Ham United,Tottenham Hotspur
+14677,2020,2021-02-22,Brighton,Crystal Palace
+14608,2020,2021-02-23,Leeds United,Southampton
+14691,2020,2021-02-27,Leeds United,Aston Villa
+14689,2020,2021-02-27,Manchester City,West Ham United
+14688,2020,2021-02-27,Newcastle United,Wolverhampton Wanderers
+14692,2020,2021-02-27,West Bromwich Albion,Brighton
+14685,2020,2021-02-28,Chelsea,Manchester United
+14687,2020,2021-02-28,Crystal Palace,Fulham
+14690,2020,2021-02-28,Leicester City,Arsenal
+14694,2020,2021-02-28,Sheffield United,Liverpool
+14693,2020,2021-02-28,Tottenham Hotspur,Burnley
+14686,2020,2021-03-01,Everton,Southampton
+14720,2020,2021-03-02,Manchester City,Wolverhampton Wanderers
+14716,2020,2021-03-03,Burnley,Leicester City
+14717,2020,2021-03-03,Crystal Palace,Manchester United
+14721,2020,2021-03-03,Sheffield United,Aston Villa
+14757,2020,2021-03-04,Fulham,Tottenham Hotspur
+14719,2020,2021-03-04,Liverpool,Chelsea
+14723,2020,2021-03-04,West Bromwich Albion,Everton
+14695,2020,2021-03-06,Aston Villa,Wolverhampton Wanderers
+14696,2020,2021-03-06,Brighton,Leicester City
+14697,2020,2021-03-06,Burnley,Arsenal
+14701,2020,2021-03-06,Sheffield United,Southampton
+14699,2020,2021-03-07,Liverpool,Fulham
+14700,2020,2021-03-07,Manchester City,Manchester United
+14702,2020,2021-03-07,Tottenham Hotspur,Crystal Palace
+14703,2020,2021-03-07,West Bromwich Albion,Newcastle United
+14698,2020,2021-03-08,Chelsea,Everton
+14704,2020,2021-03-08,West Ham United,Leeds United
+14761,2020,2021-03-10,Manchester City,Southampton
+14712,2020,2021-03-12,Newcastle United,Aston Villa
+14706,2020,2021-03-13,Crystal Palace,West Bromwich Albion
+14707,2020,2021-03-13,Everton,Burnley
+14708,2020,2021-03-13,Fulham,Manchester City
+14709,2020,2021-03-13,Leeds United,Chelsea
+14705,2020,2021-03-14,Arsenal,Tottenham Hotspur
+14710,2020,2021-03-14,Leicester City,Sheffield United
+14711,2020,2021-03-14,Manchester United,West Ham United
+14713,2020,2021-03-14,Southampton,Brighton
+14714,2020,2021-03-15,Wolverhampton Wanderers,Liverpool
+14718,2020,2021-03-19,Fulham,Leeds United
+14715,2020,2021-03-20,Brighton,Newcastle United
+14606,2020,2021-03-21,Aston Villa,Tottenham Hotspur
+14724,2020,2021-03-21,West Ham United,Arsenal
+14725,2020,2021-04-03,Arsenal,Liverpool
+14727,2020,2021-04-03,Chelsea,West Bromwich Albion
+14729,2020,2021-04-03,Leeds United,Sheffield United
+14730,2020,2021-04-03,Leicester City,Manchester City
+14726,2020,2021-04-04,Aston Villa,Fulham
+14731,2020,2021-04-04,Manchester United,Brighton
+14732,2020,2021-04-04,Newcastle United,Tottenham Hotspur
+14733,2020,2021-04-04,Southampton,Burnley
+14728,2020,2021-04-05,Everton,Crystal Palace
+14734,2020,2021-04-05,Wolverhampton Wanderers,West Ham United
+14738,2020,2021-04-09,Fulham,Wolverhampton Wanderers
+14737,2020,2021-04-10,Crystal Palace,Chelsea
+14739,2020,2021-04-10,Liverpool,Aston Villa
+14740,2020,2021-04-10,Manchester City,Leeds United
+14736,2020,2021-04-11,Burnley,Newcastle United
+14741,2020,2021-04-11,Sheffield United,Arsenal
+14742,2020,2021-04-11,Tottenham Hotspur,Manchester United
+14744,2020,2021-04-11,West Ham United,Leicester City
+14735,2020,2021-04-12,Brighton,Everton
+14743,2020,2021-04-12,West Bromwich Albion,Southampton
+14748,2020,2021-04-16,Everton,Tottenham Hotspur
+14752,2020,2021-04-17,Newcastle United,West Ham United
+14754,2020,2021-04-17,Wolverhampton Wanderers,Sheffield United
+14745,2020,2021-04-18,Arsenal,Fulham
+14751,2020,2021-04-18,Manchester United,Burnley
+14749,2020,2021-04-19,Leeds United,Liverpool
+14747,2020,2021-04-20,Chelsea,Brighton
+14746,2020,2021-04-21,Aston Villa,Manchester City
+14722,2020,2021-04-21,Tottenham Hotspur,Southampton
+14750,2020,2021-04-22,Leicester City,West Bromwich Albion
+14755,2020,2021-04-23,Arsenal,Everton
+14760,2020,2021-04-24,Liverpool,Newcastle United
+14762,2020,2021-04-24,Sheffield United,Brighton
+14763,2020,2021-04-24,West Ham United,Chelsea
+14756,2020,2021-04-25,Aston Villa,West Bromwich Albion
+14758,2020,2021-04-25,Leeds United,Manchester United
+14764,2020,2021-04-25,Wolverhampton Wanderers,Burnley
+14759,2020,2021-04-26,Leicester City,Crystal Palace
+14772,2020,2021-04-30,Southampton,Leicester City
+14765,2020,2021-05-01,Brighton,Leeds United
+14767,2020,2021-05-01,Chelsea,Fulham
+14768,2020,2021-05-01,Crystal Palace,Manchester City
+14769,2020,2021-05-01,Everton,Aston Villa
+14771,2020,2021-05-02,Newcastle United,Arsenal
+14773,2020,2021-05-02,Tottenham Hotspur,Sheffield United
+14766,2020,2021-05-03,Burnley,West Ham United
+14774,2020,2021-05-03,West Bromwich Albion,Wolverhampton Wanderers
+14779,2020,2021-05-07,Leicester City,Newcastle United
+14778,2020,2021-05-08,Leeds United,Tottenham Hotspur
+14780,2020,2021-05-08,Liverpool,Southampton
+14781,2020,2021-05-08,Manchester City,Chelsea
+14782,2020,2021-05-08,Sheffield United,Crystal Palace
+14775,2020,2021-05-09,Arsenal,West Bromwich Albion
+14776,2020,2021-05-09,Aston Villa,Manchester United
+14783,2020,2021-05-09,West Ham United,Everton
+14784,2020,2021-05-09,Wolverhampton Wanderers,Brighton
+14777,2020,2021-05-10,Fulham,Burnley
+14788,2020,2021-05-11,Manchester United,Leicester City
+14753,2020,2021-05-11,Southampton,Crystal Palace
+14790,2020,2021-05-12,Chelsea,Arsenal
+14616,2020,2021-05-13,Aston Villa,Everton
+14770,2020,2021-05-13,Manchester United,Liverpool
+14791,2020,2021-05-14,Newcastle United,Manchester City
+14785,2020,2021-05-15,Brighton,West Ham United
+14786,2020,2021-05-15,Burnley,Leeds United
+14792,2020,2021-05-15,Southampton,Fulham
+14794,2020,2021-05-16,Crystal Palace,Aston Villa
+14787,2020,2021-05-16,Everton,Sheffield United
+14793,2020,2021-05-16,Tottenham Hotspur,Wolverhampton Wanderers
+14789,2020,2021-05-16,West Bromwich Albion,Liverpool
+14795,2020,2021-05-18,Brighton,Manchester City
+14797,2020,2021-05-18,Chelsea,Leicester City
+14800,2020,2021-05-18,Manchester United,Fulham
+14802,2020,2021-05-18,Southampton,Leeds United
+14796,2020,2021-05-19,Burnley,Liverpool
+14798,2020,2021-05-19,Crystal Palace,Arsenal
+14799,2020,2021-05-19,Everton,Wolverhampton Wanderers
+14801,2020,2021-05-19,Newcastle United,Sheffield United
+14803,2020,2021-05-19,Tottenham Hotspur,Aston Villa
+14804,2020,2021-05-19,West Bromwich Albion,West Ham United
+14805,2020,2021-05-23,Arsenal,Brighton
+14806,2020,2021-05-23,Aston Villa,Chelsea
+14807,2020,2021-05-23,Fulham,Newcastle United
+14808,2020,2021-05-23,Leeds United,West Bromwich Albion
+14809,2020,2021-05-23,Leicester City,Tottenham Hotspur
+14810,2020,2021-05-23,Liverpool,Crystal Palace
+14811,2020,2021-05-23,Manchester City,Everton
+14812,2020,2021-05-23,Sheffield United,Burnley
+14813,2020,2021-05-23,West Ham United,Southampton
+14814,2020,2021-05-23,Wolverhampton Wanderers,Manchester United
+16376,2021,2021-08-13,Brentford,Arsenal
+16378,2021,2021-08-14,Burnley,Brighton
+16379,2021,2021-08-14,Chelsea,Crystal Palace
+16380,2021,2021-08-14,Everton,Southampton
+16381,2021,2021-08-14,Leicester City,Wolverhampton Wanderers
+16377,2021,2021-08-14,Manchester United,Leeds United
+16383,2021,2021-08-14,Norwich City,Liverpool
+16382,2021,2021-08-14,Watford,Aston Villa
+16384,2021,2021-08-15,Newcastle United,West Ham United
+16385,2021,2021-08-15,Tottenham Hotspur,Manchester City
+16388,2021,2021-08-21,Aston Villa,Newcastle United
+16391,2021,2021-08-21,Brighton,Watford
+16389,2021,2021-08-21,Crystal Palace,Brentford
+16390,2021,2021-08-21,Leeds United,Everton
+16386,2021,2021-08-21,Liverpool,Burnley
+16387,2021,2021-08-21,Manchester City,Norwich City
+16394,2021,2021-08-22,Arsenal,Chelsea
+16392,2021,2021-08-22,Southampton,Manchester United
+16393,2021,2021-08-22,Wolverhampton Wanderers,Tottenham Hotspur
+16395,2021,2021-08-23,West Ham United,Leicester City
+16399,2021,2021-08-28,Aston Villa,Brentford
+16400,2021,2021-08-28,Brighton,Everton
+16402,2021,2021-08-28,Liverpool,Chelsea
+16396,2021,2021-08-28,Manchester City,Arsenal
+16397,2021,2021-08-28,Newcastle United,Southampton
+16398,2021,2021-08-28,Norwich City,Leicester City
+16401,2021,2021-08-28,West Ham United,Crystal Palace
+16403,2021,2021-08-29,Burnley,Leeds United
+16404,2021,2021-08-29,Tottenham Hotspur,Watford
+16405,2021,2021-08-29,Wolverhampton Wanderers,Manchester United
+16407,2021,2021-09-11,Arsenal,Norwich City
+16408,2021,2021-09-11,Brentford,Brighton
+16413,2021,2021-09-11,Chelsea,Aston Villa
+16406,2021,2021-09-11,Crystal Palace,Tottenham Hotspur
+16409,2021,2021-09-11,Leicester City,Manchester City
+16410,2021,2021-09-11,Manchester United,Newcastle United
+16411,2021,2021-09-11,Southampton,West Ham United
+16412,2021,2021-09-11,Watford,Wolverhampton Wanderers
+16414,2021,2021-09-12,Leeds United,Liverpool
+16415,2021,2021-09-13,Everton,Burnley
+16416,2021,2021-09-17,Newcastle United,Leeds United
+16422,2021,2021-09-18,Aston Villa,Everton
+16419,2021,2021-09-18,Burnley,Arsenal
+16420,2021,2021-09-18,Liverpool,Crystal Palace
+16421,2021,2021-09-18,Manchester City,Southampton
+16418,2021,2021-09-18,Norwich City,Watford
+16417,2021,2021-09-18,Wolverhampton Wanderers,Brentford
+16423,2021,2021-09-19,Brighton,Leicester City
+16425,2021,2021-09-19,Tottenham Hotspur,Chelsea
+16424,2021,2021-09-19,West Ham United,Manchester United
+16432,2021,2021-09-25,Brentford,Liverpool
+16426,2021,2021-09-25,Chelsea,Manchester City
+16428,2021,2021-09-25,Everton,Norwich City
+16429,2021,2021-09-25,Leeds United,West Ham United
+16430,2021,2021-09-25,Leicester City,Burnley
+16431,2021,2021-09-25,Manchester United,Aston Villa
+16427,2021,2021-09-25,Watford,Newcastle United
+16434,2021,2021-09-26,Arsenal,Tottenham Hotspur
+16433,2021,2021-09-26,Southampton,Wolverhampton Wanderers
+16435,2021,2021-09-27,Crystal Palace,Brighton
+16436,2021,2021-10-02,Brighton,Arsenal
+16437,2021,2021-10-02,Burnley,Norwich City
+16438,2021,2021-10-02,Chelsea,Southampton
+16440,2021,2021-10-02,Leeds United,Watford
+16442,2021,2021-10-02,Manchester United,Everton
+16445,2021,2021-10-02,Wolverhampton Wanderers,Newcastle United
+16439,2021,2021-10-03,Crystal Palace,Leicester City
+16441,2021,2021-10-03,Liverpool,Manchester City
+16443,2021,2021-10-03,Tottenham Hotspur,Aston Villa
+16444,2021,2021-10-03,West Ham United,Brentford
+16447,2021,2021-10-16,Aston Villa,Wolverhampton Wanderers
+16448,2021,2021-10-16,Brentford,Chelsea
+16450,2021,2021-10-16,Leicester City,Manchester United
+16451,2021,2021-10-16,Manchester City,Burnley
+16453,2021,2021-10-16,Norwich City,Brighton
+16454,2021,2021-10-16,Southampton,Leeds United
+16455,2021,2021-10-16,Watford,Liverpool
+16449,2021,2021-10-17,Everton,West Ham United
+16452,2021,2021-10-17,Newcastle United,Tottenham Hotspur
+16446,2021,2021-10-18,Arsenal,Crystal Palace
+16456,2021,2021-10-22,Arsenal,Aston Villa
+16458,2021,2021-10-23,Brighton,Manchester City
+16459,2021,2021-10-23,Chelsea,Norwich City
+16460,2021,2021-10-23,Crystal Palace,Newcastle United
+16461,2021,2021-10-23,Everton,Watford
+16462,2021,2021-10-23,Leeds United,Wolverhampton Wanderers
+16464,2021,2021-10-23,Southampton,Burnley
+16457,2021,2021-10-24,Brentford,Leicester City
+16463,2021,2021-10-24,Manchester United,Liverpool
+16465,2021,2021-10-24,West Ham United,Tottenham Hotspur
+16467,2021,2021-10-30,Burnley,Brentford
+16468,2021,2021-10-30,Leicester City,Arsenal
+16469,2021,2021-10-30,Liverpool,Brighton
+16470,2021,2021-10-30,Manchester City,Crystal Palace
+16471,2021,2021-10-30,Newcastle United,Chelsea
+16473,2021,2021-10-30,Tottenham Hotspur,Manchester United
+16474,2021,2021-10-30,Watford,Southampton
+16466,2021,2021-10-31,Aston Villa,West Ham United
+16472,2021,2021-10-31,Norwich City,Leeds United
+16475,2021,2021-11-01,Wolverhampton Wanderers,Everton
+16484,2021,2021-11-05,Southampton,Aston Villa
+16477,2021,2021-11-06,Brentford,Norwich City
+16478,2021,2021-11-06,Brighton,Newcastle United
+16479,2021,2021-11-06,Chelsea,Burnley
+16480,2021,2021-11-06,Crystal Palace,Wolverhampton Wanderers
+16483,2021,2021-11-06,Manchester United,Manchester City
+16476,2021,2021-11-07,Arsenal,Watford
+16481,2021,2021-11-07,Everton,Tottenham Hotspur
+16482,2021,2021-11-07,Leeds United,Leicester City
+16485,2021,2021-11-07,West Ham United,Liverpool
+16486,2021,2021-11-20,Aston Villa,Brighton
+16487,2021,2021-11-20,Burnley,Crystal Palace
+16488,2021,2021-11-20,Leicester City,Chelsea
+16489,2021,2021-11-20,Liverpool,Arsenal
+16491,2021,2021-11-20,Newcastle United,Brentford
+16492,2021,2021-11-20,Norwich City,Southampton
+16494,2021,2021-11-20,Watford,Manchester United
+16495,2021,2021-11-20,Wolverhampton Wanderers,West Ham United
+16490,2021,2021-11-21,Manchester City,Everton
+16493,2021,2021-11-21,Tottenham Hotspur,Leeds United
+16496,2021,2021-11-27,Arsenal,Newcastle United
+16498,2021,2021-11-27,Brighton,Leeds United
+16501,2021,2021-11-27,Crystal Palace,Aston Villa
+16503,2021,2021-11-27,Liverpool,Southampton
+16505,2021,2021-11-27,Norwich City,Wolverhampton Wanderers
+16497,2021,2021-11-28,Brentford,Everton
+16500,2021,2021-11-28,Chelsea,Manchester United
+16502,2021,2021-11-28,Leicester City,Watford
+16504,2021,2021-11-28,Manchester City,West Ham United
+16508,2021,2021-11-30,Leeds United,Crystal Palace
+16513,2021,2021-11-30,Newcastle United,Norwich City
+16506,2021,2021-12-01,Aston Villa,Manchester City
+16507,2021,2021-12-01,Everton,Liverpool
+16514,2021,2021-12-01,Southampton,Leicester City
+16509,2021,2021-12-01,Watford,Chelsea
+16510,2021,2021-12-01,West Ham United,Brighton
+16511,2021,2021-12-01,Wolverhampton Wanderers,Burnley
+16512,2021,2021-12-02,Manchester United,Arsenal
+16515,2021,2021-12-02,Tottenham Hotspur,Brentford
+16520,2021,2021-12-04,Newcastle United,Burnley
+16521,2021,2021-12-04,Southampton,Brighton
+16523,2021,2021-12-04,Watford,Manchester City
+16524,2021,2021-12-04,West Ham United,Chelsea
+16525,2021,2021-12-04,Wolverhampton Wanderers,Liverpool
+16516,2021,2021-12-05,Aston Villa,Leicester City
+16518,2021,2021-12-05,Leeds United,Brentford
+16519,2021,2021-12-05,Manchester United,Crystal Palace
+16522,2021,2021-12-05,Tottenham Hotspur,Norwich City
+16517,2021,2021-12-06,Everton,Arsenal
+16527,2021,2021-12-10,Brentford,Watford
+16526,2021,2021-12-11,Arsenal,Southampton
+16530,2021,2021-12-11,Chelsea,Leeds United
+16533,2021,2021-12-11,Liverpool,Aston Villa
+16534,2021,2021-12-11,Manchester City,Wolverhampton Wanderers
+16535,2021,2021-12-11,Norwich City,Manchester United
+16529,2021,2021-12-12,Burnley,West Ham United
+16531,2021,2021-12-12,Crystal Palace,Everton
+16532,2021,2021-12-12,Leicester City,Newcastle United
+16545,2021,2021-12-14,Manchester City,Leeds United
+16541,2021,2021-12-14,Norwich City,Aston Villa
+16536,2021,2021-12-15,Arsenal,West Ham United
+16538,2021,2021-12-15,Brighton,Wolverhampton Wanderers
+16542,2021,2021-12-15,Crystal Palace,Southampton
+16543,2021,2021-12-16,Chelsea,Everton
+16544,2021,2021-12-16,Liverpool,Newcastle United
+16548,2021,2021-12-18,Leeds United,Arsenal
+16550,2021,2021-12-19,Newcastle United,Manchester City
+16552,2021,2021-12-19,Tottenham Hotspur,Liverpool
+16555,2021,2021-12-19,Wolverhampton Wanderers,Chelsea
+16556,2021,2021-12-26,Aston Villa,Chelsea
+16557,2021,2021-12-26,Brighton,Brentford
+16560,2021,2021-12-26,Manchester City,Leicester City
+16562,2021,2021-12-26,Norwich City,Arsenal
+16563,2021,2021-12-26,Tottenham Hotspur,Crystal Palace
+16564,2021,2021-12-26,West Ham United,Southampton
+16561,2021,2021-12-27,Newcastle United,Manchester United
+16570,2021,2021-12-28,Crystal Palace,Norwich City
+16573,2021,2021-12-28,Leicester City,Liverpool
+16575,2021,2021-12-28,Southampton,Tottenham Hotspur
+16569,2021,2021-12-28,Watford,West Ham United
+16567,2021,2021-12-29,Brentford,Manchester City
+16568,2021,2021-12-29,Chelsea,Brighton
+16574,2021,2021-12-30,Manchester United,Burnley
+16576,2021,2022-01-01,Arsenal,Manchester City
+16579,2021,2022-01-01,Crystal Palace,West Ham United
+16585,2021,2022-01-01,Watford,Tottenham Hotspur
+16577,2021,2022-01-02,Brentford,Aston Villa
+16578,2021,2022-01-02,Chelsea,Liverpool
+16580,2021,2022-01-02,Everton,Brighton
+16581,2021,2022-01-02,Leeds United,Burnley
+16583,2021,2022-01-03,Manchester United,Wolverhampton Wanderers
+16551,2021,2022-01-11,Southampton,Brentford
+16554,2021,2022-01-12,West Ham United,Norwich City
+16587,2021,2022-01-14,Brighton,Crystal Palace
+16586,2021,2022-01-15,Aston Villa,Manchester United
+16590,2021,2022-01-15,Manchester City,Chelsea
+16591,2021,2022-01-15,Newcastle United,Watford
+16592,2021,2022-01-15,Norwich City,Everton
+16595,2021,2022-01-15,Wolverhampton Wanderers,Southampton
+16589,2021,2022-01-16,Liverpool,Brentford
+16594,2021,2022-01-16,West Ham United,Leeds United
+16607,2021,2022-01-18,Brighton,Chelsea
+16537,2021,2022-01-19,Brentford,Manchester United
+16540,2021,2022-01-19,Leicester City,Tottenham Hotspur
+16605,2021,2022-01-21,Watford,Norwich City
+16597,2021,2022-01-22,Brentford,Wolverhampton Wanderers
+16600,2021,2022-01-22,Everton,Aston Villa
+16601,2021,2022-01-22,Leeds United,Newcastle United
+16603,2021,2022-01-22,Manchester United,West Ham United
+16604,2021,2022-01-22,Southampton,Manchester City
+16596,2021,2022-01-23,Arsenal,Burnley
+16598,2021,2022-01-23,Chelsea,Tottenham Hotspur
+16599,2021,2022-01-23,Crystal Palace,Liverpool
+16602,2021,2022-01-23,Leicester City,Brighton
+16539,2021,2022-02-05,Burnley,Watford
+16608,2021,2022-02-08,Burnley,Manchester United
+16612,2021,2022-02-08,Newcastle United,Everton
+16610,2021,2022-02-08,West Ham United,Watford
+16606,2021,2022-02-09,Aston Villa,Leeds United
+16615,2021,2022-02-09,Manchester City,Brentford
+16609,2021,2022-02-09,Norwich City,Crystal Palace
+16613,2021,2022-02-09,Tottenham Hotspur,Southampton
+16614,2021,2022-02-10,Liverpool,Leicester City
+16611,2021,2022-02-10,Wolverhampton Wanderers,Arsenal
+16616,2021,2022-02-12,Brentford,Crystal Palace
+16619,2021,2022-02-12,Everton,Leeds United
+16621,2021,2022-02-12,Manchester United,Southampton
+16623,2021,2022-02-12,Norwich City,Manchester City
+16625,2021,2022-02-12,Watford,Brighton
+16617,2021,2022-02-13,Burnley,Liverpool
+16620,2021,2022-02-13,Leicester City,West Ham United
+16622,2021,2022-02-13,Newcastle United,Aston Villa
+16624,2021,2022-02-13,Tottenham Hotspur,Wolverhampton Wanderers
+16549,2021,2022-02-15,Manchester United,Brighton
+16626,2021,2022-02-19,Arsenal,Brentford
+16627,2021,2022-02-19,Aston Villa,Watford
+16628,2021,2022-02-19,Brighton,Burnley
+16629,2021,2022-02-19,Crystal Palace,Chelsea
+16631,2021,2022-02-19,Liverpool,Norwich City
+16632,2021,2022-02-19,Manchester City,Tottenham Hotspur
+16633,2021,2022-02-19,Southampton,Everton
+16634,2021,2022-02-19,West Ham United,Newcastle United
+16630,2021,2022-02-20,Leeds United,Manchester United
+16635,2021,2022-02-20,Wolverhampton Wanderers,Leicester City
+16499,2021,2022-02-23,Burnley,Tottenham Hotspur
+16559,2021,2022-02-23,Liverpool,Leeds United
+16553,2021,2022-02-23,Watford,Crystal Palace
+16566,2021,2022-02-24,Arsenal,Wolverhampton Wanderers
+16644,2021,2022-02-25,Southampton,Norwich City
+16637,2021,2022-02-26,Brentford,Newcastle United
+16638,2021,2022-02-26,Brighton,Aston Villa
+16640,2021,2022-02-26,Crystal Palace,Burnley
+16641,2021,2022-02-26,Everton,Manchester City
+16642,2021,2022-02-26,Leeds United,Tottenham Hotspur
+16643,2021,2022-02-26,Manchester United,Watford
+16645,2021,2022-02-27,West Ham United,Wolverhampton Wanderers
+16588,2021,2022-03-01,Burnley,Leicester City
+16646,2021,2022-03-05,Aston Villa,Southampton
+16647,2021,2022-03-05,Burnley,Chelsea
+16648,2021,2022-03-05,Leicester City,Leeds United
+16649,2021,2022-03-05,Liverpool,West Ham United
+16651,2021,2022-03-05,Newcastle United,Brighton
+16652,2021,2022-03-05,Norwich City,Brentford
+16655,2021,2022-03-05,Wolverhampton Wanderers,Crystal Palace
+16650,2021,2022-03-06,Manchester City,Manchester United
+16654,2021,2022-03-06,Watford,Arsenal
+16653,2021,2022-03-07,Tottenham Hotspur,Everton
+16572,2021,2022-03-10,Leeds United,Aston Villa
+16672,2021,2022-03-10,Norwich City,Chelsea
+16584,2021,2022-03-10,Southampton,Newcastle United
+16565,2021,2022-03-10,Wolverhampton Wanderers,Watford
+16657,2021,2022-03-12,Brentford,Burnley
+16658,2021,2022-03-12,Brighton,Liverpool
+16663,2021,2022-03-12,Manchester United,Tottenham Hotspur
+16656,2021,2022-03-13,Arsenal,Leicester City
+16659,2021,2022-03-13,Chelsea,Newcastle United
+16661,2021,2022-03-13,Everton,Wolverhampton Wanderers
+16662,2021,2022-03-13,Leeds United,Norwich City
+16664,2021,2022-03-13,Southampton,Watford
+16665,2021,2022-03-13,West Ham United,Aston Villa
+16660,2021,2022-03-14,Crystal Palace,Manchester City
+16636,2021,2022-03-16,Arsenal,Liverpool
+16528,2021,2022-03-16,Brighton,Tottenham Hotspur
+16571,2021,2022-03-17,Everton,Newcastle United
+16675,2021,2022-03-18,Wolverhampton Wanderers,Leeds United
+16666,2021,2022-03-19,Aston Villa,Arsenal
+16668,2021,2022-03-20,Leicester City,Brentford
+16673,2021,2022-03-20,Tottenham Hotspur,West Ham United
+16685,2021,2022-04-02,Brighton,Norwich City
+16684,2021,2022-04-02,Burnley,Manchester City
+16683,2021,2022-04-02,Chelsea,Brentford
+16681,2021,2022-04-02,Leeds United,Southampton
+16680,2021,2022-04-02,Liverpool,Watford
+16679,2021,2022-04-02,Manchester United,Leicester City
+16676,2021,2022-04-02,Wolverhampton Wanderers,Aston Villa
+16678,2021,2022-04-03,Tottenham Hotspur,Newcastle United
+16677,2021,2022-04-03,West Ham United,Everton
+16682,2021,2022-04-04,Crystal Palace,Arsenal
+16558,2021,2022-04-06,Burnley,Everton
+16689,2021,2022-04-08,Newcastle United,Wolverhampton Wanderers
+16695,2021,2022-04-09,Arsenal,Brighton
+16694,2021,2022-04-09,Aston Villa,Tottenham Hotspur
+16692,2021,2022-04-09,Everton,Manchester United
+16687,2021,2022-04-09,Southampton,Chelsea
+16686,2021,2022-04-09,Watford,Leeds United
+16693,2021,2022-04-10,Brentford,West Ham United
+16691,2021,2022-04-10,Leicester City,Crystal Palace
+16690,2021,2022-04-10,Manchester City,Liverpool
+16688,2021,2022-04-10,Norwich City,Burnley
+16702,2021,2022-04-16,Manchester United,Norwich City
+16700,2021,2022-04-16,Southampton,Arsenal
+16699,2021,2022-04-16,Tottenham Hotspur,Brighton
+16698,2021,2022-04-16,Watford,Brentford
+16701,2021,2022-04-17,Newcastle United,Leicester City
+16697,2021,2022-04-17,West Ham United,Burnley
+16669,2021,2022-04-19,Liverpool,Manchester United
+16618,2021,2022-04-20,Chelsea,Arsenal
+16547,2021,2022-04-20,Everton,Leicester City
+16670,2021,2022-04-20,Manchester City,Brighton
+16671,2021,2022-04-20,Newcastle United,Crystal Palace
+16667,2021,2022-04-21,Burnley,Southampton
+16715,2021,2022-04-23,Arsenal,Manchester United
+16714,2021,2022-04-23,Brentford,Tottenham Hotspur
+16709,2021,2022-04-23,Leicester City,Aston Villa
+16707,2021,2022-04-23,Manchester City,Watford
+16706,2021,2022-04-23,Norwich City,Newcastle United
+16713,2021,2022-04-24,Brighton,Southampton
+16712,2021,2022-04-24,Burnley,Wolverhampton Wanderers
+16711,2021,2022-04-24,Chelsea,West Ham United
+16708,2021,2022-04-24,Liverpool,Everton
+16710,2021,2022-04-25,Crystal Palace,Leeds United
+16742,2021,2022-04-28,Manchester United,Chelsea
+16725,2021,2022-04-30,Aston Villa,Norwich City
+16723,2021,2022-04-30,Leeds United,Manchester City
+16721,2021,2022-04-30,Newcastle United,Liverpool
+16720,2021,2022-04-30,Southampton,Crystal Palace
+16718,2021,2022-04-30,Watford,Burnley
+16716,2021,2022-04-30,Wolverhampton Wanderers,Brighton
+16724,2021,2022-05-01,Everton,Chelsea
+16719,2021,2022-05-01,Tottenham Hotspur,Leicester City
+16717,2021,2022-05-01,West Ham United,Arsenal
+16722,2021,2022-05-02,Manchester United,Brentford
+16734,2021,2022-05-07,Brentford,Southampton
+16733,2021,2022-05-07,Brighton,Manchester United
+16732,2021,2022-05-07,Burnley,Aston Villa
+16731,2021,2022-05-07,Chelsea,Wolverhampton Wanderers
+16730,2021,2022-05-07,Crystal Palace,Watford
+16728,2021,2022-05-07,Liverpool,Tottenham Hotspur
+16735,2021,2022-05-08,Arsenal,Leeds United
+16729,2021,2022-05-08,Leicester City,Everton
+16727,2021,2022-05-08,Manchester City,Newcastle United
+16726,2021,2022-05-08,Norwich City,West Ham United
+16705,2021,2022-05-10,Aston Villa,Liverpool
+16703,2021,2022-05-11,Leeds United,Chelsea
+16582,2021,2022-05-11,Leicester City,Norwich City
+16674,2021,2022-05-11,Watford,Everton
+16696,2021,2022-05-11,Wolverhampton Wanderers,Manchester City
+16593,2021,2022-05-12,Tottenham Hotspur,Arsenal
+16745,2021,2022-05-15,Aston Villa,Crystal Palace
+16744,2021,2022-05-15,Everton,Brentford
+16743,2021,2022-05-15,Leeds United,Brighton
+16739,2021,2022-05-15,Tottenham Hotspur,Burnley
+16738,2021,2022-05-15,Watford,Leicester City
+16737,2021,2022-05-15,West Ham United,Manchester City
+16736,2021,2022-05-15,Wolverhampton Wanderers,Norwich City
+16741,2021,2022-05-16,Newcastle United,Arsenal
+16740,2021,2022-05-17,Southampton,Liverpool
+16546,2021,2022-05-19,Aston Villa,Burnley
+16639,2021,2022-05-19,Chelsea,Leicester City
+16704,2021,2022-05-19,Everton,Crystal Palace
+16746,2021,2022-05-22,Arsenal,Everton
+16747,2021,2022-05-22,Brentford,Leeds United
+16748,2021,2022-05-22,Brighton,West Ham United
+16749,2021,2022-05-22,Burnley,Newcastle United
+16750,2021,2022-05-22,Chelsea,Watford
+16751,2021,2022-05-22,Crystal Palace,Manchester United
+16752,2021,2022-05-22,Leicester City,Southampton
+16753,2021,2022-05-22,Liverpool,Wolverhampton Wanderers
+16754,2021,2022-05-22,Manchester City,Aston Villa
+16755,2021,2022-05-22,Norwich City,Tottenham Hotspur
+18202,2022,2022-08-05,Crystal Palace,Arsenal
+18204,2022,2022-08-06,Bournemouth,Aston Villa
+18208,2022,2022-08-06,Everton,Chelsea
+18203,2022,2022-08-06,Fulham,Liverpool
+18205,2022,2022-08-06,Leeds United,Wolverhampton Wanderers
+18206,2022,2022-08-06,Newcastle United,Nottingham Forest
+18207,2022,2022-08-06,Tottenham Hotspur,Southampton
+18210,2022,2022-08-07,Leicester City,Brentford
+18209,2022,2022-08-07,Manchester United,Brighton
+18211,2022,2022-08-07,West Ham United,Manchester City
+18217,2022,2022-08-13,Arsenal,Leicester City
+18212,2022,2022-08-13,Aston Villa,Everton
+18218,2022,2022-08-13,Brentford,Manchester United
+18213,2022,2022-08-13,Brighton,Newcastle United
+18214,2022,2022-08-13,Manchester City,Bournemouth
+18215,2022,2022-08-13,Southampton,Leeds United
+18216,2022,2022-08-13,Wolverhampton Wanderers,Fulham
+18220,2022,2022-08-14,Chelsea,Tottenham Hotspur
+18219,2022,2022-08-14,Nottingham Forest,West Ham United
+18221,2022,2022-08-15,Liverpool,Crystal Palace
+18227,2022,2022-08-20,Bournemouth,Arsenal
+18223,2022,2022-08-20,Crystal Palace,Aston Villa
+18224,2022,2022-08-20,Everton,Nottingham Forest
+18225,2022,2022-08-20,Fulham,Brentford
+18226,2022,2022-08-20,Leicester City,Southampton
+18222,2022,2022-08-20,Tottenham Hotspur,Wolverhampton Wanderers
+18228,2022,2022-08-21,Leeds United,Chelsea
+18230,2022,2022-08-21,Newcastle United,Manchester City
+18229,2022,2022-08-21,West Ham United,Brighton
+18231,2022,2022-08-22,Manchester United,Liverpool
+18238,2022,2022-08-27,Arsenal,Fulham
+18233,2022,2022-08-27,Brentford,Everton
+18234,2022,2022-08-27,Brighton,Leeds United
+18235,2022,2022-08-27,Chelsea,Leicester City
+18236,2022,2022-08-27,Liverpool,Bournemouth
+18237,2022,2022-08-27,Manchester City,Crystal Palace
+18232,2022,2022-08-27,Southampton,Manchester United
+18239,2022,2022-08-28,Aston Villa,West Ham United
+18241,2022,2022-08-28,Nottingham Forest,Tottenham Hotspur
+18240,2022,2022-08-28,Wolverhampton Wanderers,Newcastle United
+18243,2022,2022-08-30,Crystal Palace,Brentford
+18242,2022,2022-08-30,Fulham,Brighton
+18245,2022,2022-08-30,Leeds United,Everton
+18244,2022,2022-08-30,Southampton,Chelsea
+18247,2022,2022-08-31,Arsenal,Aston Villa
+18248,2022,2022-08-31,Bournemouth,Wolverhampton Wanderers
+18250,2022,2022-08-31,Liverpool,Newcastle United
+18246,2022,2022-08-31,Manchester City,Nottingham Forest
+18249,2022,2022-08-31,West Ham United,Tottenham Hotspur
+18251,2022,2022-09-01,Leicester City,Manchester United
+18258,2022,2022-09-03,Aston Villa,Manchester City
+18257,2022,2022-09-03,Brentford,Leeds United
+18260,2022,2022-09-03,Chelsea,West Ham United
+18252,2022,2022-09-03,Everton,Liverpool
+18253,2022,2022-09-03,Newcastle United,Crystal Palace
+18254,2022,2022-09-03,Nottingham Forest,Bournemouth
+18255,2022,2022-09-03,Tottenham Hotspur,Fulham
+18256,2022,2022-09-03,Wolverhampton Wanderers,Southampton
+18259,2022,2022-09-04,Brighton,Leicester City
+18261,2022,2022-09-04,Manchester United,Arsenal
+18272,2022,2022-09-16,Aston Villa,Southampton
+18273,2022,2022-09-16,Nottingham Forest,Fulham
+18275,2022,2022-09-17,Newcastle United,Bournemouth
+18278,2022,2022-09-17,Tottenham Hotspur,Leicester City
+18274,2022,2022-09-17,Wolverhampton Wanderers,Manchester City
+18280,2022,2022-09-18,Brentford,Arsenal
+18277,2022,2022-09-18,Everton,West Ham United
+18282,2022,2022-10-01,Arsenal,Tottenham Hotspur
+18283,2022,2022-10-01,Bournemouth,Brentford
+18284,2022,2022-10-01,Crystal Palace,Chelsea
+18285,2022,2022-10-01,Fulham,Newcastle United
+18288,2022,2022-10-01,Liverpool,Brighton
+18290,2022,2022-10-01,Southampton,Everton
+18291,2022,2022-10-01,West Ham United,Wolverhampton Wanderers
+18286,2022,2022-10-02,Leeds United,Aston Villa
+18289,2022,2022-10-02,Manchester City,Manchester United
+18287,2022,2022-10-03,Leicester City,Nottingham Forest
+18293,2022,2022-10-08,Bournemouth,Leicester City
+18294,2022,2022-10-08,Brighton,Tottenham Hotspur
+18295,2022,2022-10-08,Chelsea,Wolverhampton Wanderers
+18298,2022,2022-10-08,Manchester City,Southampton
+18299,2022,2022-10-08,Newcastle United,Brentford
+18292,2022,2022-10-09,Arsenal,Liverpool
+18296,2022,2022-10-09,Crystal Palace,Leeds United
+18297,2022,2022-10-09,Everton,Manchester United
+18301,2022,2022-10-09,West Ham United,Fulham
+18300,2022,2022-10-10,Nottingham Forest,Aston Villa
+18303,2022,2022-10-14,Brentford,Brighton
+18304,2022,2022-10-15,Fulham,Bournemouth
+18306,2022,2022-10-15,Leicester City,Crystal Palace
+18310,2022,2022-10-15,Tottenham Hotspur,Everton
+18311,2022,2022-10-15,Wolverhampton Wanderers,Nottingham Forest
+18302,2022,2022-10-16,Aston Villa,Chelsea
+18305,2022,2022-10-16,Leeds United,Arsenal
+18307,2022,2022-10-16,Liverpool,Manchester City
+18308,2022,2022-10-16,Manchester United,Newcastle United
+18309,2022,2022-10-16,Southampton,West Ham United
+18315,2022,2022-10-18,Brighton,Nottingham Forest
+18318,2022,2022-10-18,Crystal Palace,Wolverhampton Wanderers
+18313,2022,2022-10-19,Bournemouth,Southampton
+18314,2022,2022-10-19,Brentford,Chelsea
+18320,2022,2022-10-19,Liverpool,West Ham United
+18321,2022,2022-10-19,Manchester United,Tottenham Hotspur
+18319,2022,2022-10-19,Newcastle United,Everton
+18316,2022,2022-10-20,Fulham,Aston Villa
+18317,2022,2022-10-20,Leicester City,Leeds United
+18323,2022,2022-10-22,Chelsea,Manchester United
+18324,2022,2022-10-22,Everton,Crystal Palace
+18326,2022,2022-10-22,Manchester City,Brighton
+18327,2022,2022-10-22,Nottingham Forest,Liverpool
+18322,2022,2022-10-23,Aston Villa,Brentford
+18325,2022,2022-10-23,Leeds United,Fulham
+18328,2022,2022-10-23,Southampton,Arsenal
+18329,2022,2022-10-23,Tottenham Hotspur,Newcastle United
+18331,2022,2022-10-23,Wolverhampton Wanderers,Leicester City
+18330,2022,2022-10-24,West Ham United,Bournemouth
+18333,2022,2022-10-29,Bournemouth,Tottenham Hotspur
+18334,2022,2022-10-29,Brentford,Wolverhampton Wanderers
+18335,2022,2022-10-29,Brighton,Chelsea
+18336,2022,2022-10-29,Crystal Palace,Southampton
+18337,2022,2022-10-29,Fulham,Everton
+18338,2022,2022-10-29,Leicester City,Manchester City
+18339,2022,2022-10-29,Liverpool,Leeds United
+18341,2022,2022-10-29,Newcastle United,Aston Villa
+18332,2022,2022-10-30,Arsenal,Nottingham Forest
+18340,2022,2022-10-30,Manchester United,West Ham United
+18344,2022,2022-11-05,Everton,Leicester City
+18345,2022,2022-11-05,Leeds United,Bournemouth
+18346,2022,2022-11-05,Manchester City,Fulham
+18347,2022,2022-11-05,Nottingham Forest,Brentford
+18351,2022,2022-11-05,Wolverhampton Wanderers,Brighton
+18342,2022,2022-11-06,Aston Villa,Manchester United
+18343,2022,2022-11-06,Chelsea,Arsenal
+18348,2022,2022-11-06,Southampton,Newcastle United
+18349,2022,2022-11-06,Tottenham Hotspur,Liverpool
+18350,2022,2022-11-06,West Ham United,Crystal Palace
+18352,2022,2022-11-12,Bournemouth,Everton
+18355,2022,2022-11-12,Liverpool,Southampton
+18356,2022,2022-11-12,Manchester City,Brentford
+18357,2022,2022-11-12,Newcastle United,Chelsea
+18358,2022,2022-11-12,Nottingham Forest,Crystal Palace
+18359,2022,2022-11-12,Tottenham Hotspur,Leeds United
+18360,2022,2022-11-12,West Ham United,Leicester City
+18361,2022,2022-11-12,Wolverhampton Wanderers,Arsenal
+18353,2022,2022-11-13,Brighton,Aston Villa
+18354,2022,2022-11-13,Fulham,Manchester United
+18362,2022,2022-12-26,Arsenal,West Ham United
+18363,2022,2022-12-26,Aston Villa,Liverpool
+18364,2022,2022-12-26,Brentford,Tottenham Hotspur
+18366,2022,2022-12-26,Crystal Palace,Fulham
+18367,2022,2022-12-26,Everton,Wolverhampton Wanderers
+18369,2022,2022-12-26,Leicester City,Newcastle United
+18371,2022,2022-12-26,Southampton,Brighton
+18365,2022,2022-12-27,Chelsea,Bournemouth
+18370,2022,2022-12-27,Manchester United,Nottingham Forest
+18368,2022,2022-12-28,Leeds United,Manchester City
+18375,2022,2022-12-30,Liverpool,Leicester City
+18380,2022,2022-12-30,West Ham United,Brentford
+18372,2022,2022-12-31,Bournemouth,Crystal Palace
+18373,2022,2022-12-31,Brighton,Arsenal
+18374,2022,2022-12-31,Fulham,Southampton
+18376,2022,2022-12-31,Manchester City,Everton
+18377,2022,2022-12-31,Newcastle United,Leeds United
+18381,2022,2022-12-31,Wolverhampton Wanderers,Manchester United
+18378,2022,2023-01-01,Nottingham Forest,Chelsea
+18379,2022,2023-01-01,Tottenham Hotspur,Aston Villa
+18384,2022,2023-01-02,Brentford,Liverpool
+18382,2022,2023-01-03,Arsenal,Newcastle United
+18387,2022,2023-01-03,Everton,Brighton
+18389,2022,2023-01-03,Leicester City,Fulham
+18390,2022,2023-01-03,Manchester United,Bournemouth
+18383,2022,2023-01-04,Aston Villa,Wolverhampton Wanderers
+18386,2022,2023-01-04,Crystal Palace,Tottenham Hotspur
+18388,2022,2023-01-04,Leeds United,West Ham United
+18391,2022,2023-01-04,Southampton,Nottingham Forest
+18385,2022,2023-01-05,Chelsea,Manchester City
+18262,2022,2023-01-12,Fulham,Chelsea
+18392,2022,2023-01-13,Aston Villa,Leeds United
+18393,2022,2023-01-14,Brentford,Bournemouth
+18394,2022,2023-01-14,Brighton,Liverpool
+18396,2022,2023-01-14,Everton,Southampton
+18397,2022,2023-01-14,Manchester United,Manchester City
+18399,2022,2023-01-14,Nottingham Forest,Leicester City
+18401,2022,2023-01-14,Wolverhampton Wanderers,West Ham United
+18395,2022,2023-01-15,Chelsea,Crystal Palace
+18398,2022,2023-01-15,Newcastle United,Fulham
+18400,2022,2023-01-15,Tottenham Hotspur,Arsenal
+18270,2022,2023-01-18,Crystal Palace,Manchester United
+18267,2022,2023-01-19,Manchester City,Tottenham Hotspur
+18403,2022,2023-01-21,Bournemouth,Nottingham Forest
+18404,2022,2023-01-21,Crystal Palace,Newcastle United
+18407,2022,2023-01-21,Leicester City,Brighton
+18408,2022,2023-01-21,Liverpool,Chelsea
+18410,2022,2023-01-21,Southampton,Aston Villa
+18411,2022,2023-01-21,West Ham United,Everton
+18402,2022,2023-01-22,Arsenal,Manchester United
+18406,2022,2023-01-22,Leeds United,Brentford
+18409,2022,2023-01-22,Manchester City,Wolverhampton Wanderers
+18405,2022,2023-01-23,Fulham,Tottenham Hotspur
+18415,2022,2023-02-03,Chelsea,Fulham
+18412,2022,2023-02-04,Aston Villa,Leicester City
+18413,2022,2023-02-04,Brentford,Southampton
+18414,2022,2023-02-04,Brighton,Bournemouth
+18416,2022,2023-02-04,Everton,Arsenal
+18417,2022,2023-02-04,Manchester United,Crystal Palace
+18418,2022,2023-02-04,Newcastle United,West Ham United
+18421,2022,2023-02-04,Wolverhampton Wanderers,Liverpool
+18419,2022,2023-02-05,Nottingham Forest,Leeds United
+18420,2022,2023-02-05,Tottenham Hotspur,Manchester City
+18279,2022,2023-02-08,Manchester United,Leeds United
+18422,2022,2023-02-11,Arsenal,Brentford
+18423,2022,2023-02-11,Bournemouth,Newcastle United
+18424,2022,2023-02-11,Crystal Palace,Brighton
+18425,2022,2023-02-11,Fulham,Nottingham Forest
+18427,2022,2023-02-11,Leicester City,Tottenham Hotspur
+18430,2022,2023-02-11,Southampton,Wolverhampton Wanderers
+18431,2022,2023-02-11,West Ham United,Chelsea
+18426,2022,2023-02-12,Leeds United,Manchester United
+18429,2022,2023-02-12,Manchester City,Aston Villa
+18428,2022,2023-02-13,Liverpool,Everton
+18312,2022,2023-02-15,Arsenal,Manchester City
+18432,2022,2023-02-18,Aston Villa,Arsenal
+18433,2022,2023-02-18,Brentford,Crystal Palace
+18434,2022,2023-02-18,Brighton,Fulham
+18435,2022,2023-02-18,Chelsea,Southampton
+18436,2022,2023-02-18,Everton,Leeds United
+18438,2022,2023-02-18,Newcastle United,Liverpool
+18439,2022,2023-02-18,Nottingham Forest,Manchester City
+18441,2022,2023-02-18,Wolverhampton Wanderers,Bournemouth
+18437,2022,2023-02-19,Manchester United,Leicester City
+18440,2022,2023-02-19,Tottenham Hotspur,West Ham United
+18445,2022,2023-02-24,Fulham,Wolverhampton Wanderers
+18442,2022,2023-02-25,Bournemouth,Manchester City
+18443,2022,2023-02-25,Crystal Palace,Liverpool
+18444,2022,2023-02-25,Everton,Aston Villa
+18446,2022,2023-02-25,Leeds United,Southampton
+18447,2022,2023-02-25,Leicester City,Arsenal
+18451,2022,2023-02-25,West Ham United,Nottingham Forest
+18450,2022,2023-02-26,Tottenham Hotspur,Chelsea
+18269,2022,2023-03-01,Arsenal,Everton
+18264,2022,2023-03-01,Liverpool,Wolverhampton Wanderers
+18452,2022,2023-03-04,Arsenal,Bournemouth
+18453,2022,2023-03-04,Aston Villa,Crystal Palace
+18455,2022,2023-03-04,Brighton,West Ham United
+18456,2022,2023-03-04,Chelsea,Leeds United
+18458,2022,2023-03-04,Manchester City,Newcastle United
+18460,2022,2023-03-04,Southampton,Leicester City
+18461,2022,2023-03-04,Wolverhampton Wanderers,Tottenham Hotspur
+18457,2022,2023-03-05,Liverpool,Manchester United
+18459,2022,2023-03-05,Nottingham Forest,Everton
+18454,2022,2023-03-06,Brentford,Fulham
+18462,2022,2023-03-11,Bournemouth,Liverpool
+18463,2022,2023-03-11,Crystal Palace,Manchester City
+18464,2022,2023-03-11,Everton,Brentford
+18466,2022,2023-03-11,Leeds United,Brighton
+18467,2022,2023-03-11,Leicester City,Chelsea
+18470,2022,2023-03-11,Tottenham Hotspur,Nottingham Forest
+18465,2022,2023-03-12,Fulham,Arsenal
+18468,2022,2023-03-12,Manchester United,Southampton
+18469,2022,2023-03-12,Newcastle United,Wolverhampton Wanderers
+18471,2022,2023-03-12,West Ham United,Aston Villa
+18276,2022,2023-03-15,Brighton,Crystal Palace
+18265,2022,2023-03-15,Southampton,Brentford
+18479,2022,2023-03-17,Nottingham Forest,Newcastle United
+18473,2022,2023-03-18,Aston Villa,Bournemouth
+18474,2022,2023-03-18,Brentford,Leicester City
+18476,2022,2023-03-18,Chelsea,Everton
+18480,2022,2023-03-18,Southampton,Tottenham Hotspur
+18481,2022,2023-03-18,Wolverhampton Wanderers,Leeds United
+18472,2022,2023-03-19,Arsenal,Crystal Palace
+18482,2022,2023-04-01,Arsenal,Leeds United
+18483,2022,2023-04-01,Bournemouth,Fulham
+18484,2022,2023-04-01,Brighton,Brentford
+18485,2022,2023-04-01,Chelsea,Aston Villa
+18486,2022,2023-04-01,Crystal Palace,Leicester City
+18488,2022,2023-04-01,Manchester City,Liverpool
+18490,2022,2023-04-01,Nottingham Forest,Wolverhampton Wanderers
+18489,2022,2023-04-02,Newcastle United,Manchester United
+18491,2022,2023-04-02,West Ham United,Southampton
+18487,2022,2023-04-03,Everton,Tottenham Hotspur
+18266,2022,2023-04-04,Bournemouth,Brighton
+18281,2022,2023-04-04,Chelsea,Liverpool
+18271,2022,2023-04-04,Leeds United,Nottingham Forest
+18263,2022,2023-04-04,Leicester City,Aston Villa
+18448,2022,2023-04-05,Manchester United,Brentford
+18268,2022,2023-04-05,West Ham United,Newcastle United
+18492,2022,2023-04-08,Aston Villa,Nottingham Forest
+18493,2022,2023-04-08,Brentford,Newcastle United
+18494,2022,2023-04-08,Fulham,West Ham United
+18496,2022,2023-04-08,Leicester City,Bournemouth
+18498,2022,2023-04-08,Manchester United,Everton
+18499,2022,2023-04-08,Southampton,Manchester City
+18500,2022,2023-04-08,Tottenham Hotspur,Brighton
+18501,2022,2023-04-08,Wolverhampton Wanderers,Chelsea
+18495,2022,2023-04-09,Leeds United,Crystal Palace
+18497,2022,2023-04-09,Liverpool,Arsenal
+18502,2022,2023-04-15,Aston Villa,Newcastle United
+18503,2022,2023-04-15,Chelsea,Brighton
+18504,2022,2023-04-15,Everton,Fulham
+18506,2022,2023-04-15,Manchester City,Leicester City
+18508,2022,2023-04-15,Southampton,Crystal Palace
+18509,2022,2023-04-15,Tottenham Hotspur,Bournemouth
+18511,2022,2023-04-15,Wolverhampton Wanderers,Brentford
+18507,2022,2023-04-16,Nottingham Forest,Manchester United
+18510,2022,2023-04-16,West Ham United,Arsenal
+18505,2022,2023-04-17,Leeds United,Liverpool
+18512,2022,2023-04-21,Arsenal,Southampton
+18514,2022,2023-04-22,Brentford,Aston Villa
+18516,2022,2023-04-22,Crystal Palace,Everton
+18517,2022,2023-04-22,Fulham,Leeds United
+18518,2022,2023-04-22,Leicester City,Wolverhampton Wanderers
+18519,2022,2023-04-22,Liverpool,Nottingham Forest
+18513,2022,2023-04-23,Bournemouth,West Ham United
+18521,2022,2023-04-23,Newcastle United,Tottenham Hotspur
+18528,2022,2023-04-25,Aston Villa,Fulham
+18523,2022,2023-04-25,Leeds United,Leicester City
+18527,2022,2023-04-25,Wolverhampton Wanderers,Crystal Palace
+18529,2022,2023-04-26,Chelsea,Brentford
+18531,2022,2023-04-26,Manchester City,Arsenal
+18524,2022,2023-04-26,Nottingham Forest,Brighton
+18526,2022,2023-04-26,West Ham United,Liverpool
+18522,2022,2023-04-27,Everton,Newcastle United
+18530,2022,2023-04-27,Southampton,Bournemouth
+18525,2022,2023-04-27,Tottenham Hotspur,Manchester United
+18534,2022,2023-04-29,Brentford,Nottingham Forest
+18535,2022,2023-04-29,Brighton,Wolverhampton Wanderers
+18536,2022,2023-04-29,Crystal Palace,West Ham United
+18533,2022,2023-04-30,Bournemouth,Leeds United
+18537,2022,2023-04-30,Fulham,Manchester City
+18539,2022,2023-04-30,Liverpool,Tottenham Hotspur
+18540,2022,2023-04-30,Manchester United,Aston Villa
+18541,2022,2023-04-30,Newcastle United,Southampton
+18538,2022,2023-05-01,Leicester City,Everton
+18532,2022,2023-05-02,Arsenal,Chelsea
+18477,2022,2023-05-03,Liverpool,Fulham
+18478,2022,2023-05-03,Manchester City,West Ham United
+18475,2022,2023-05-04,Brighton,Manchester United
+18542,2022,2023-05-06,Bournemouth,Chelsea
+18545,2022,2023-05-06,Liverpool,Brentford
+18546,2022,2023-05-06,Manchester City,Leeds United
+18549,2022,2023-05-06,Tottenham Hotspur,Crystal Palace
+18551,2022,2023-05-06,Wolverhampton Wanderers,Aston Villa
+18547,2022,2023-05-07,Newcastle United,Arsenal
+18550,2022,2023-05-07,West Ham United,Manchester United
+18543,2022,2023-05-08,Brighton,Everton
+18544,2022,2023-05-08,Fulham,Leicester City
+18548,2022,2023-05-08,Nottingham Forest,Southampton
+18553,2022,2023-05-13,Aston Villa,Tottenham Hotspur
+18555,2022,2023-05-13,Chelsea,Nottingham Forest
+18556,2022,2023-05-13,Crystal Palace,Bournemouth
+18558,2022,2023-05-13,Leeds United,Newcastle United
+18560,2022,2023-05-13,Manchester United,Wolverhampton Wanderers
+18561,2022,2023-05-13,Southampton,Fulham
+18552,2022,2023-05-14,Arsenal,Brighton
+18554,2022,2023-05-14,Brentford,West Ham United
+18557,2022,2023-05-14,Everton,Manchester City
+18559,2022,2023-05-15,Leicester City,Liverpool
+18449,2022,2023-05-18,Newcastle United,Brighton
+18562,2022,2023-05-20,Bournemouth,Manchester United
+18564,2022,2023-05-20,Fulham,Crystal Palace
+18565,2022,2023-05-20,Liverpool,Aston Villa
+18568,2022,2023-05-20,Nottingham Forest,Arsenal
+18569,2022,2023-05-20,Tottenham Hotspur,Brentford
+18571,2022,2023-05-20,Wolverhampton Wanderers,Everton
+18563,2022,2023-05-21,Brighton,Southampton
+18566,2022,2023-05-21,Manchester City,Chelsea
+18570,2022,2023-05-21,West Ham United,Leeds United
+18567,2022,2023-05-22,Newcastle United,Leicester City
+18515,2022,2023-05-24,Brighton,Manchester City
+18520,2022,2023-05-25,Manchester United,Chelsea
+18572,2022,2023-05-28,Arsenal,Wolverhampton Wanderers
+18573,2022,2023-05-28,Aston Villa,Brighton
+18574,2022,2023-05-28,Brentford,Manchester City
+18575,2022,2023-05-28,Chelsea,Newcastle United
+18576,2022,2023-05-28,Crystal Palace,Nottingham Forest
+18577,2022,2023-05-28,Everton,Bournemouth
+18578,2022,2023-05-28,Leeds United,Tottenham Hotspur
+18579,2022,2023-05-28,Leicester City,West Ham United
+18580,2022,2023-05-28,Manchester United,Fulham
+18581,2022,2023-05-28,Southampton,Liverpool
+22275,2023,2023-08-11,Burnley,Manchester City
+22276,2023,2023-08-12,Arsenal,Nottingham Forest
+22277,2023,2023-08-12,Bournemouth,West Ham United
+22278,2023,2023-08-12,Brighton,Luton Town
+22279,2023,2023-08-12,Everton,Fulham
+22281,2023,2023-08-12,Newcastle United,Aston Villa
+22280,2023,2023-08-12,Sheffield United,Crystal Palace
+22282,2023,2023-08-13,Brentford,Tottenham Hotspur
+22283,2023,2023-08-13,Chelsea,Liverpool
+22284,2023,2023-08-14,Manchester United,Wolverhampton Wanderers
+22285,2023,2023-08-18,Nottingham Forest,Sheffield United
+22287,2023,2023-08-19,Fulham,Brentford
+22288,2023,2023-08-19,Liverpool,Bournemouth
+22291,2023,2023-08-19,Manchester City,Newcastle United
+22290,2023,2023-08-19,Tottenham Hotspur,Manchester United
+22286,2023,2023-08-19,Wolverhampton Wanderers,Brighton
+22292,2023,2023-08-20,Aston Villa,Everton
+22293,2023,2023-08-20,West Ham United,Chelsea
+22294,2023,2023-08-21,Crystal Palace,Arsenal
+22295,2023,2023-08-25,Chelsea,Luton Town
+22297,2023,2023-08-26,Arsenal,Fulham
+22296,2023,2023-08-26,Bournemouth,Tottenham Hotspur
+22298,2023,2023-08-26,Brentford,Crystal Palace
+22301,2023,2023-08-26,Brighton,West Ham United
+22299,2023,2023-08-26,Everton,Wolverhampton Wanderers
+22300,2023,2023-08-26,Manchester United,Nottingham Forest
+22302,2023,2023-08-27,Burnley,Aston Villa
+22304,2023,2023-08-27,Newcastle United,Liverpool
+22303,2023,2023-08-27,Sheffield United,Manchester City
+21925,2023,2023-09-01,Luton Town,West Ham United
+21928,2023,2023-09-02,Brentford,Bournemouth
+21931,2023,2023-09-02,Brighton,Newcastle United
+21929,2023,2023-09-02,Burnley,Tottenham Hotspur
+21930,2023,2023-09-02,Chelsea,Nottingham Forest
+21927,2023,2023-09-02,Manchester City,Fulham
+21926,2023,2023-09-02,Sheffield United,Everton
+21934,2023,2023-09-03,Arsenal,Manchester United
+21932,2023,2023-09-03,Crystal Palace,Wolverhampton Wanderers
+21933,2023,2023-09-03,Liverpool,Aston Villa
+21938,2023,2023-09-16,Aston Villa,Crystal Palace
+21939,2023,2023-09-16,Fulham,Luton Town
+21940,2023,2023-09-16,Manchester United,Brighton
+21943,2023,2023-09-16,Newcastle United,Brentford
+21936,2023,2023-09-16,Tottenham Hotspur,Sheffield United
+21937,2023,2023-09-16,West Ham United,Manchester City
+21935,2023,2023-09-16,Wolverhampton Wanderers,Liverpool
+21942,2023,2023-09-17,Bournemouth,Chelsea
+21941,2023,2023-09-17,Everton,Arsenal
+21944,2023,2023-09-18,Nottingham Forest,Burnley
+21949,2023,2023-09-23,Brentford,Everton
+21950,2023,2023-09-23,Burnley,Manchester United
+21948,2023,2023-09-23,Crystal Palace,Fulham
+21945,2023,2023-09-23,Luton Town,Wolverhampton Wanderers
+21946,2023,2023-09-23,Manchester City,Nottingham Forest
+21952,2023,2023-09-24,Arsenal,Tottenham Hotspur
+21951,2023,2023-09-24,Brighton,Bournemouth
+21947,2023,2023-09-24,Chelsea,Aston Villa
+21953,2023,2023-09-24,Liverpool,West Ham United
+21954,2023,2023-09-24,Sheffield United,Newcastle United
+21955,2023,2023-09-30,Aston Villa,Brighton
+21959,2023,2023-09-30,Bournemouth,Arsenal
+21956,2023,2023-09-30,Everton,Luton Town
+21957,2023,2023-09-30,Manchester United,Crystal Palace
+21958,2023,2023-09-30,Newcastle United,Burnley
+21962,2023,2023-09-30,Tottenham Hotspur,Liverpool
+21960,2023,2023-09-30,West Ham United,Sheffield United
+21961,2023,2023-09-30,Wolverhampton Wanderers,Manchester City
+21963,2023,2023-10-01,Nottingham Forest,Brentford
+21964,2023,2023-10-02,Fulham,Chelsea
+22289,2023,2023-10-03,Luton Town,Burnley
+21967,2023,2023-10-07,Burnley,Chelsea
+21968,2023,2023-10-07,Crystal Palace,Nottingham Forest
+21969,2023,2023-10-07,Everton,Bournemouth
+21970,2023,2023-10-07,Fulham,Sheffield United
+21971,2023,2023-10-07,Luton Town,Tottenham Hotspur
+21972,2023,2023-10-07,Manchester United,Brentford
+21965,2023,2023-10-08,Arsenal,Manchester City
+21966,2023,2023-10-08,Brighton,Liverpool
+21973,2023,2023-10-08,West Ham United,Newcastle United
+21974,2023,2023-10-08,Wolverhampton Wanderers,Aston Villa
+21975,2023,2023-10-21,Bournemouth,Wolverhampton Wanderers
+21977,2023,2023-10-21,Brentford,Burnley
+21978,2023,2023-10-21,Chelsea,Arsenal
+21979,2023,2023-10-21,Liverpool,Everton
+21980,2023,2023-10-21,Manchester City,Brighton
+21981,2023,2023-10-21,Newcastle United,Crystal Palace
+21982,2023,2023-10-21,Nottingham Forest,Luton Town
+21983,2023,2023-10-21,Sheffield United,Manchester United
+21976,2023,2023-10-22,Aston Villa,West Ham United
+21984,2023,2023-10-23,Tottenham Hotspur,Fulham
+21990,2023,2023-10-27,Crystal Palace,Tottenham Hotspur
+21986,2023,2023-10-28,Arsenal,Sheffield United
+21985,2023,2023-10-28,Bournemouth,Burnley
+21989,2023,2023-10-28,Chelsea,Brentford
+21994,2023,2023-10-28,Wolverhampton Wanderers,Newcastle United
+21987,2023,2023-10-29,Aston Villa,Luton Town
+21988,2023,2023-10-29,Brighton,Fulham
+21991,2023,2023-10-29,Liverpool,Nottingham Forest
+21992,2023,2023-10-29,Manchester United,Manchester City
+21993,2023,2023-10-29,West Ham United,Everton
+21995,2023,2023-11-04,Brentford,West Ham United
+21996,2023,2023-11-04,Burnley,Crystal Palace
+21997,2023,2023-11-04,Everton,Brighton
+21998,2023,2023-11-04,Fulham,Manchester United
+22000,2023,2023-11-04,Manchester City,Bournemouth
+22001,2023,2023-11-04,Newcastle United,Arsenal
+22003,2023,2023-11-04,Sheffield United,Wolverhampton Wanderers
+21999,2023,2023-11-05,Luton Town,Liverpool
+22002,2023,2023-11-05,Nottingham Forest,Aston Villa
+22004,2023,2023-11-06,Tottenham Hotspur,Chelsea
+22006,2023,2023-11-11,Arsenal,Burnley
+22005,2023,2023-11-11,Bournemouth,Newcastle United
+22010,2023,2023-11-11,Crystal Palace,Everton
+22012,2023,2023-11-11,Manchester United,Luton Town
+22014,2023,2023-11-11,Wolverhampton Wanderers,Tottenham Hotspur
+22007,2023,2023-11-12,Aston Villa,Fulham
+22008,2023,2023-11-12,Brighton,Sheffield United
+22009,2023,2023-11-12,Chelsea,Manchester City
+22011,2023,2023-11-12,Liverpool,Brentford
+22013,2023,2023-11-12,West Ham United,Nottingham Forest
+22015,2023,2023-11-25,Brentford,Arsenal
+22016,2023,2023-11-25,Burnley,West Ham United
+22019,2023,2023-11-25,Luton Town,Crystal Palace
+22020,2023,2023-11-25,Manchester City,Liverpool
+22021,2023,2023-11-25,Newcastle United,Chelsea
+22022,2023,2023-11-25,Nottingham Forest,Brighton
+22023,2023,2023-11-25,Sheffield United,Bournemouth
+22017,2023,2023-11-26,Everton,Manchester United
+22024,2023,2023-11-26,Tottenham Hotspur,Aston Villa
+22018,2023,2023-11-27,Fulham,Wolverhampton Wanderers
+22026,2023,2023-12-02,Arsenal,Wolverhampton Wanderers
+22027,2023,2023-12-02,Brentford,Luton Town
+22028,2023,2023-12-02,Burnley,Sheffield United
+22032,2023,2023-12-02,Newcastle United,Manchester United
+22033,2023,2023-12-02,Nottingham Forest,Everton
+22025,2023,2023-12-03,Bournemouth,Aston Villa
+22029,2023,2023-12-03,Chelsea,Brighton
+22030,2023,2023-12-03,Liverpool,Fulham
+22031,2023,2023-12-03,Manchester City,Tottenham Hotspur
+22034,2023,2023-12-03,West Ham United,Crystal Palace
+22039,2023,2023-12-05,Luton Town,Arsenal
+22042,2023,2023-12-05,Wolverhampton Wanderers,Burnley
+22035,2023,2023-12-06,Aston Villa,Manchester City
+22036,2023,2023-12-06,Brighton,Brentford
+22043,2023,2023-12-06,Crystal Palace,Bournemouth
+22038,2023,2023-12-06,Fulham,Nottingham Forest
+22044,2023,2023-12-06,Manchester United,Chelsea
+22040,2023,2023-12-06,Sheffield United,Liverpool
+22037,2023,2023-12-07,Everton,Newcastle United
+22041,2023,2023-12-07,Tottenham Hotspur,West Ham United
+22045,2023,2023-12-09,Aston Villa,Arsenal
+22046,2023,2023-12-09,Brighton,Burnley
+22047,2023,2023-12-09,Crystal Palace,Liverpool
+22051,2023,2023-12-09,Manchester United,Bournemouth
+22052,2023,2023-12-09,Sheffield United,Brentford
+22054,2023,2023-12-09,Wolverhampton Wanderers,Nottingham Forest
+22048,2023,2023-12-10,Everton,Chelsea
+22049,2023,2023-12-10,Fulham,West Ham United
+22050,2023,2023-12-10,Luton Town,Manchester City
+22053,2023,2023-12-10,Tottenham Hotspur,Newcastle United
+22063,2023,2023-12-15,Nottingham Forest,Tottenham Hotspur
+22058,2023,2023-12-16,Burnley,Everton
+22059,2023,2023-12-16,Chelsea,Sheffield United
+22061,2023,2023-12-16,Manchester City,Crystal Palace
+22062,2023,2023-12-16,Newcastle United,Fulham
+22056,2023,2023-12-17,Arsenal,Brighton
+22057,2023,2023-12-17,Brentford,Aston Villa
+22060,2023,2023-12-17,Liverpool,Manchester United
+22064,2023,2023-12-17,West Ham United,Wolverhampton Wanderers
+22066,2023,2023-12-21,Crystal Palace,Brighton
+22065,2023,2023-12-22,Aston Villa,Sheffield United
+22067,2023,2023-12-23,Fulham,Burnley
+22068,2023,2023-12-23,Liverpool,Arsenal
+22069,2023,2023-12-23,Luton Town,Newcastle United
+22070,2023,2023-12-23,Nottingham Forest,Bournemouth
+22071,2023,2023-12-23,Tottenham Hotspur,Everton
+22072,2023,2023-12-23,West Ham United,Manchester United
+22073,2023,2023-12-24,Wolverhampton Wanderers,Chelsea
+22075,2023,2023-12-26,Bournemouth,Fulham
+22079,2023,2023-12-26,Burnley,Liverpool
+22082,2023,2023-12-26,Manchester United,Aston Villa
+22083,2023,2023-12-26,Newcastle United,Nottingham Forest
+22084,2023,2023-12-26,Sheffield United,Luton Town
+22077,2023,2023-12-27,Brentford,Wolverhampton Wanderers
+22080,2023,2023-12-27,Chelsea,Crystal Palace
+22081,2023,2023-12-27,Everton,Manchester City
+22076,2023,2023-12-28,Arsenal,West Ham United
+22078,2023,2023-12-28,Brighton,Tottenham Hotspur
+22085,2023,2023-12-30,Aston Villa,Burnley
+22086,2023,2023-12-30,Crystal Palace,Brentford
+22089,2023,2023-12-30,Luton Town,Chelsea
+22090,2023,2023-12-30,Manchester City,Sheffield United
+22091,2023,2023-12-30,Nottingham Forest,Manchester United
+22094,2023,2023-12-30,Wolverhampton Wanderers,Everton
+22087,2023,2023-12-31,Fulham,Arsenal
+22092,2023,2023-12-31,Tottenham Hotspur,Bournemouth
+22088,2023,2024-01-01,Liverpool,Newcastle United
+22093,2023,2024-01-02,West Ham United,Brighton
+22096,2023,2024-01-12,Burnley,Luton Town
+22097,2023,2024-01-13,Chelsea,Fulham
+22100,2023,2024-01-13,Newcastle United,Manchester City
+22098,2023,2024-01-14,Everton,Aston Villa
+22099,2023,2024-01-14,Manchester United,Tottenham Hotspur
+22103,2023,2024-01-20,Arsenal,Crystal Palace
+22104,2023,2024-01-20,Brentford,Nottingham Forest
+22102,2023,2024-01-21,Bournemouth,Liverpool
+22101,2023,2024-01-21,Sheffield United,West Ham United
+22095,2023,2024-01-22,Brighton,Wolverhampton Wanderers
+22105,2023,2024-01-30,Aston Villa,Newcastle United
+22112,2023,2024-01-30,Crystal Palace,Sheffield United
+22106,2023,2024-01-30,Fulham,Everton
+22107,2023,2024-01-30,Luton Town,Brighton
+22108,2023,2024-01-30,Nottingham Forest,Arsenal
+22113,2023,2024-01-31,Liverpool,Chelsea
+22114,2023,2024-01-31,Manchester City,Burnley
+22109,2023,2024-01-31,Tottenham Hotspur,Brentford
+22110,2023,2024-02-01,West Ham United,Bournemouth
+22111,2023,2024-02-01,Wolverhampton Wanderers,Manchester United
+22118,2023,2024-02-03,Brighton,Crystal Palace
+22119,2023,2024-02-03,Burnley,Fulham
+22121,2023,2024-02-03,Everton,Tottenham Hotspur
+22123,2023,2024-02-03,Newcastle United,Luton Town
+22124,2023,2024-02-03,Sheffield United,Aston Villa
+22116,2023,2024-02-04,Arsenal,Liverpool
+22115,2023,2024-02-04,Bournemouth,Nottingham Forest
+22120,2023,2024-02-04,Chelsea,Wolverhampton Wanderers
+22122,2023,2024-02-04,Manchester United,West Ham United
+22117,2023,2024-02-05,Brentford,Manchester City
+22127,2023,2024-02-10,Fulham,Bournemouth
+22128,2023,2024-02-10,Liverpool,Burnley
+22129,2023,2024-02-10,Luton Town,Sheffield United
+22130,2023,2024-02-10,Manchester City,Everton
+22131,2023,2024-02-10,Nottingham Forest,Newcastle United
+22132,2023,2024-02-10,Tottenham Hotspur,Brighton
+22134,2023,2024-02-10,Wolverhampton Wanderers,Brentford
+22125,2023,2024-02-11,Aston Villa,Manchester United
+22133,2023,2024-02-11,West Ham United,Arsenal
+22126,2023,2024-02-12,Crystal Palace,Chelsea
+22135,2023,2024-02-17,Brentford,Liverpool
+22136,2023,2024-02-17,Burnley,Arsenal
+22138,2023,2024-02-17,Fulham,Aston Villa
+22140,2023,2024-02-17,Manchester City,Chelsea
+22141,2023,2024-02-17,Newcastle United,Bournemouth
+22142,2023,2024-02-17,Nottingham Forest,West Ham United
+22144,2023,2024-02-17,Tottenham Hotspur,Wolverhampton Wanderers
+22139,2023,2024-02-18,Luton Town,Manchester United
+22143,2023,2024-02-18,Sheffield United,Brighton
+22137,2023,2024-02-19,Everton,Crystal Palace
+22074,2023,2024-02-20,Manchester City,Brentford
+22151,2023,2024-02-21,Liverpool,Luton Town
+22146,2023,2024-02-24,Arsenal,Newcastle United
+22147,2023,2024-02-24,Aston Villa,Nottingham Forest
+22145,2023,2024-02-24,Bournemouth,Manchester City
+22148,2023,2024-02-24,Brighton,Everton
+22150,2023,2024-02-24,Crystal Palace,Burnley
+22152,2023,2024-02-24,Manchester United,Fulham
+22154,2023,2024-02-25,Wolverhampton Wanderers,Sheffield United
+22153,2023,2024-02-26,West Ham United,Brentford
+22155,2023,2024-03-02,Brentford,Chelsea
+22157,2023,2024-03-02,Everton,West Ham United
+22158,2023,2024-03-02,Fulham,Brighton
+22159,2023,2024-03-02,Luton Town,Aston Villa
+22161,2023,2024-03-02,Newcastle United,Wolverhampton Wanderers
+22162,2023,2024-03-02,Nottingham Forest,Liverpool
+22164,2023,2024-03-02,Tottenham Hotspur,Crystal Palace
+22156,2023,2024-03-03,Burnley,Bournemouth
+22160,2023,2024-03-03,Manchester City,Manchester United
+22163,2023,2024-03-04,Sheffield United,Arsenal
+22166,2023,2024-03-09,Arsenal,Brentford
+22165,2023,2024-03-09,Bournemouth,Sheffield United
+22170,2023,2024-03-09,Crystal Palace,Luton Town
+22172,2023,2024-03-09,Manchester United,Everton
+22174,2023,2024-03-09,Wolverhampton Wanderers,Fulham
+22167,2023,2024-03-10,Aston Villa,Tottenham Hotspur
+22168,2023,2024-03-10,Brighton,Nottingham Forest
+22171,2023,2024-03-10,Liverpool,Manchester City
+22173,2023,2024-03-10,West Ham United,Burnley
+22169,2023,2024-03-11,Chelsea,Newcastle United
+25861,2023,2024-03-13,Bournemouth,Luton Town
+22177,2023,2024-03-16,Burnley,Brentford
+22180,2023,2024-03-16,Fulham,Tottenham Hotspur
+22181,2023,2024-03-16,Luton Town,Nottingham Forest
+22183,2023,2024-03-17,West Ham United,Aston Villa
+22186,2023,2024-03-30,Aston Villa,Wolverhampton Wanderers
+22185,2023,2024-03-30,Bournemouth,Everton
+22187,2023,2024-03-30,Brentford,Manchester United
+22188,2023,2024-03-30,Chelsea,Burnley
+22191,2023,2024-03-30,Newcastle United,West Ham United
+22192,2023,2024-03-30,Nottingham Forest,Crystal Palace
+22193,2023,2024-03-30,Sheffield United,Fulham
+22194,2023,2024-03-30,Tottenham Hotspur,Luton Town
+22189,2023,2024-03-31,Liverpool,Brighton
+22190,2023,2024-03-31,Manchester City,Arsenal
+22195,2023,2024-04-02,Bournemouth,Crystal Palace
+22197,2023,2024-04-02,Burnley,Wolverhampton Wanderers
+22202,2023,2024-04-02,Newcastle United,Everton
+22198,2023,2024-04-02,Nottingham Forest,Fulham
+22199,2023,2024-04-02,West Ham United,Tottenham Hotspur
+22196,2023,2024-04-03,Arsenal,Luton Town
+22200,2023,2024-04-03,Brentford,Brighton
+22204,2023,2024-04-03,Manchester City,Aston Villa
+22201,2023,2024-04-04,Chelsea,Manchester United
+22203,2023,2024-04-04,Liverpool,Sheffield United
+22205,2023,2024-04-06,Aston Villa,Brentford
+22206,2023,2024-04-06,Brighton,Arsenal
+22207,2023,2024-04-06,Crystal Palace,Manchester City
+22208,2023,2024-04-06,Everton,Burnley
+22209,2023,2024-04-06,Fulham,Newcastle United
+22210,2023,2024-04-06,Luton Town,Bournemouth
+22214,2023,2024-04-06,Wolverhampton Wanderers,West Ham United
+22211,2023,2024-04-07,Manchester United,Liverpool
+22212,2023,2024-04-07,Sheffield United,Chelsea
+22213,2023,2024-04-07,Tottenham Hotspur,Nottingham Forest
+22215,2023,2024-04-13,Bournemouth,Manchester United
+22217,2023,2024-04-13,Brentford,Sheffield United
+22218,2023,2024-04-13,Burnley,Brighton
+22221,2023,2024-04-13,Manchester City,Luton Town
+22222,2023,2024-04-13,Newcastle United,Tottenham Hotspur
+22223,2023,2024-04-13,Nottingham Forest,Wolverhampton Wanderers
+22216,2023,2024-04-14,Arsenal,Aston Villa
+22220,2023,2024-04-14,Liverpool,Crystal Palace
+22224,2023,2024-04-14,West Ham United,Fulham
+22219,2023,2024-04-15,Chelsea,Everton
+22230,2023,2024-04-20,Luton Town,Brentford
+22232,2023,2024-04-20,Sheffield United,Burnley
+22234,2023,2024-04-20,Wolverhampton Wanderers,Arsenal
+22225,2023,2024-04-21,Aston Villa,Bournemouth
+22227,2023,2024-04-21,Crystal Palace,West Ham United
+22228,2023,2024-04-21,Everton,Nottingham Forest
+22229,2023,2024-04-21,Fulham,Liverpool
+22175,2023,2024-04-23,Arsenal,Chelsea
+22178,2023,2024-04-24,Crystal Palace,Newcastle United
+22179,2023,2024-04-24,Everton,Liverpool
+22182,2023,2024-04-24,Manchester United,Sheffield United
+22184,2023,2024-04-24,Wolverhampton Wanderers,Bournemouth
+22176,2023,2024-04-25,Brighton,Manchester City
+22236,2023,2024-04-27,Aston Villa,Chelsea
+22237,2023,2024-04-27,Everton,Brentford
+22238,2023,2024-04-27,Fulham,Crystal Palace
+22239,2023,2024-04-27,Manchester United,Burnley
+22240,2023,2024-04-27,Newcastle United,Sheffield United
+22243,2023,2024-04-27,West Ham United,Liverpool
+22244,2023,2024-04-27,Wolverhampton Wanderers,Luton Town
+22235,2023,2024-04-28,Bournemouth,Brighton
+22242,2023,2024-04-28,Nottingham Forest,Manchester City
+22241,2023,2024-04-28,Tottenham Hotspur,Arsenal
+22149,2023,2024-05-02,Chelsea,Tottenham Hotspur
+22252,2023,2024-05-03,Luton Town,Everton
+22245,2023,2024-05-04,Arsenal,Bournemouth
+22246,2023,2024-05-04,Brentford,Fulham
+22248,2023,2024-05-04,Burnley,Newcastle United
+22253,2023,2024-05-04,Manchester City,Wolverhampton Wanderers
+22254,2023,2024-05-04,Sheffield United,Nottingham Forest
+22247,2023,2024-05-05,Brighton,Aston Villa
+22249,2023,2024-05-05,Chelsea,West Ham United
+22251,2023,2024-05-05,Liverpool,Tottenham Hotspur
+22250,2023,2024-05-06,Crystal Palace,Manchester United
+22255,2023,2024-05-11,Bournemouth,Brentford
+22257,2023,2024-05-11,Everton,Sheffield United
+22258,2023,2024-05-11,Fulham,Manchester City
+22260,2023,2024-05-11,Newcastle United,Brighton
+22261,2023,2024-05-11,Nottingham Forest,Chelsea
+22262,2023,2024-05-11,Tottenham Hotspur,Burnley
+22263,2023,2024-05-11,West Ham United,Luton Town
+22264,2023,2024-05-11,Wolverhampton Wanderers,Crystal Palace
+22259,2023,2024-05-12,Manchester United,Arsenal
+22256,2023,2024-05-13,Aston Villa,Liverpool
+22233,2023,2024-05-14,Tottenham Hotspur,Manchester City
+22226,2023,2024-05-15,Brighton,Chelsea
+22231,2023,2024-05-15,Manchester United,Newcastle United
+22265,2023,2024-05-19,Arsenal,Everton
+22266,2023,2024-05-19,Brentford,Newcastle United
+22267,2023,2024-05-19,Brighton,Manchester United
+22268,2023,2024-05-19,Burnley,Nottingham Forest
+22269,2023,2024-05-19,Chelsea,Bournemouth
+22270,2023,2024-05-19,Crystal Palace,Aston Villa
+22271,2023,2024-05-19,Liverpool,Wolverhampton Wanderers
+22272,2023,2024-05-19,Luton Town,Fulham
+22273,2023,2024-05-19,Manchester City,West Ham United
+22274,2023,2024-05-19,Sheffield United,Tottenham Hotspur

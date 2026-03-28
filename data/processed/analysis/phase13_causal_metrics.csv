@@ -1,0 +1,7 @@
+metric,value
+goal_regression_control_mae,1.3829
+goal_regression_weather_mae,1.3909
+outcome_control_accuracy,0.4783
+outcome_weather_accuracy,0.491
+goal_regression_weather_gain,-0.008
+outcome_weather_gain,0.0128

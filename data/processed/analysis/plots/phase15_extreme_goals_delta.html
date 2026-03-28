@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-3b921fe676f94ac9f5dfdb423726fea0"}, "mark": {"type": "bar", "cornerRadiusTopLeft": 6, "cornerRadiusTopRight": 6}, "encoding": {"color": {"condition": {"test": "(datum.goals_delta_vs_baseline > 0)", "value": "#2E8B57"}, "value": "#C0392B"}, "tooltip": [{"field": "extreme_type", "type": "nominal"}, {"field": "extreme_matches", "type": "quantitative"}, {"field": "extreme_avg_goals", "format": ".2f", "type": "quantitative"}, {"field": "baseline_avg_goals", "format": ".2f", "type": "quantitative"}, {"field": "goals_delta_vs_baseline", "format": ".2f", "type": "quantitative"}], "x": {"field": "extreme_type", "title": "Extreme Condition", "type": "nominal"}, "y": {"field": "goals_delta_vs_baseline", "title": "Goals Delta vs Baseline", "type": "quantitative"}}, "height": 300, "title": "Phase 15 - Extreme Weather Goal Impact", "width": 620, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-3b921fe676f94ac9f5dfdb423726fea0": [{"extreme_type": "heavy_rain", "extreme_matches": 156, "baseline_matches": 1744, "extreme_avg_goals": 2.9615384615384617, "baseline_avg_goals": 2.865252293577982, "extreme_home_win_rate": 0.4166666666666667, "baseline_home_win_rate": 0.44323394495412843, "extreme_draw_rate": 0.2692307692307692, "baseline_draw_rate": 0.22362385321100917, "goals_delta_vs_baseline": 0.09628616796047984, "home_win_delta_vs_baseline": -0.02656727828746175, "draw_delta_vs_baseline": 0.04560691601976005}, {"extreme_type": "extreme_wind", "extreme_matches": 15, "baseline_matches": 1885, "extreme_avg_goals": 2.2, "baseline_avg_goals": 2.8785145888594164, "extreme_home_win_rate": 0.4, "baseline_home_win_rate": 0.4413793103448276, "extreme_draw_rate": 0.4, "baseline_draw_rate": 0.2259946949602122, "goals_delta_vs_baseline": -0.6785145888594162, "home_win_delta_vs_baseline": -0.04137931034482756, "draw_delta_vs_baseline": 0.1740053050397878}, {"extreme_type": "very_low_temperature", "extreme_matches": 344, "baseline_matches": 1556, "extreme_avg_goals": 2.7209302325581395, "baseline_avg_goals": 2.9068123393316196, "extreme_home_win_rate": 0.44476744186046513, "baseline_home_win_rate": 0.4402313624678663, "extreme_draw_rate": 0.21511627906976744, "baseline_draw_rate": 0.2300771208226221, "goals_delta_vs_baseline": -0.18588210677348016, "home_win_delta_vs_baseline": 0.004536079392598813, "draw_delta_vs_baseline": -0.01496084175285467}, {"extreme_type": "any_extreme", "extreme_matches": 397, "baseline_matches": 1503, "extreme_avg_goals": 2.730478589420655, "baseline_avg_goals": 2.91084497671324, "extreme_home_win_rate": 0.40554156171284633, "baseline_home_win_rate": 0.4504324683965403, "extreme_draw_rate": 0.24937027707808565, "baseline_draw_rate": 0.2215568862275449, "goals_delta_vs_baseline": -0.18036638729258492, "home_win_delta_vs_baseline": -0.04489090668369394, "draw_delta_vs_baseline": 0.027813390850540742}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+Phase 11 - Temporal & Seasonal Analysis
+Highest-scoring month/temperature bucket: Aug at 25C+ with 4.67 goals.
+Lowest-scoring month/temperature bucket: Jun at 15-20C with 2.00 goals.
+Winter rain impact on goals: +0.22 compared with dry winter matches.
+Summer rain impact on goals: -0.09 compared with dry summer matches.
+Seasonal consistency check: rain increased average goals in 3 seasons and reduced or matched them in 2 seasons.
+Weather effects are not perfectly consistent over time, which suggests a seasonal bias and context dependence rather than a single stable weather rule.

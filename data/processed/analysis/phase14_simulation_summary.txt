@@ -1,0 +1,5 @@
+Phase 14 - Match Simulation Engine
+Across recent holdout fixtures, heavy rain changes predicted total goals by +0.03 versus a normal day.
+Across the same fixtures, extreme cold changes predicted total goals by -0.00 versus a normal day.
+Strongest heavy-rain home-win shift: Tottenham Hotspur vs Manchester City on 2024-05-14 with a change of -7.53%.
+Use the scenario delta file to answer questions like: if this match was played in rain vs dry, how much would expected goals or home-win probability move?
