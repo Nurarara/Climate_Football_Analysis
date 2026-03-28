@@ -200,27 +200,37 @@ Interpretation: team strength and form still matter a lot, but weather remains v
 
 ## Dashboard
 
-The Streamlit dashboard in `app/dashboard.py` exposes five sections:
+The Streamlit dashboard in `app/dashboard.py` is a single-page app with a hero landing section and five inline tabs. It uses a Yacht Club colour palette (`#F2F0EF`, `#BBBDBC`, `#245F73`, `#733E24`) with a teal-to-rust gradient hero banner over a stadium background image.
 
-1. `Climate Impact Overview`
-2. `Team Sensitivity Rankings`
-3. `Simulation Tool`
-4. `Future Scenario Explorer`
-5. `Extreme Weather Explorer`
+### Tabs
 
-### README previews
+1. `📊 Climate Overview` — temperature bands, seasonal rain impact, permutation feature importance, pre-computed climate scenarios, monthly temperature × goals heatmap
+2. `🏆 Team Rankings` — climate sensitivity index by club, regional donut chart, stadium map, expandable detail table
+3. `⚽ Match Simulator` — live fixture predictor with custom weather sliders, result pill, probability delta chart, weather condition badges
+4. `🌡️ Future Scenarios` — custom climate shift sliders applied to all 1,900 matches, delta metrics and outcome shift chart
+5. `⛈️ Extreme Weather` — match history filtered by condition (heavy rain, strong wind, freezing, any extreme), overview bar charts, goals distribution
 
-#### Overview
+### Screenshots
 
-![Overview Preview](assets/overview_preview.png)
+#### Match Simulator
 
-#### Team Analysis
+![Match Simulator](assets/dashboard_simulator.png)
 
-![Team Analysis Preview](assets/team_analysis_preview.png)
+#### Future Scenarios
 
-#### Prediction Tool
+![Future Scenarios](assets/dashboard_future.png)
 
-![Prediction Tool Preview](assets/prediction_tool_preview.png)
+#### Extreme Weather
+
+![Extreme Weather](assets/dashboard_extreme.png)
+
+#### Climate Overview
+
+![Climate Overview](assets/dashboard_overview.png)
+
+#### Team Rankings
+
+![Team Rankings](assets/dashboard_rankings.png)
 
 ## How To Run
 
@@ -308,12 +318,19 @@ streamlit run app/dashboard.py
 ```text
 .
 |-- app/
-|   `-- dashboard.py
+|   |-- dashboard.py
+|   `-- utils/
+|       |-- constants.py
+|       |-- data_loader.py
+|       |-- model_utils.py
+|       `-- styles.py
 |-- assets/
-|   |-- overview_preview.png
-|   |-- pipeline_diagram.svg
-|   |-- prediction_tool_preview.png
-|   `-- team_analysis_preview.png
+|   |-- dashboard_home.png
+|   |-- dashboard_overview.png
+|   |-- dashboard_simulator.png
+|   |-- dashboard_rankings.png
+|   |-- dashboard_extreme.png
+|   `-- pipeline_diagram.svg
 |-- data/
 |   |-- processed/
 |   |   |-- analysis/
@@ -329,6 +346,7 @@ streamlit run app/dashboard.py
 |   |-- create_team_mapping.py
 |   |-- engineer_features.py
 |   |-- evaluate_models.py
+|   |-- capture_screenshots.py
 |   |-- generate_readme_assets.py
 |   |-- ingest_football_data.py
 |   |-- ingest_weather_data.py
