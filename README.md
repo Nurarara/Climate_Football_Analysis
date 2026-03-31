@@ -210,27 +210,11 @@ The Streamlit dashboard in `app/dashboard.py` is a single-page app with a hero l
 4. `🌡️ Future Scenarios` — custom climate shift sliders applied to all 1,900 matches, delta metrics and outcome shift chart
 5. `⛈️ Extreme Weather` — match history filtered by condition (heavy rain, strong wind, freezing, any extreme), overview bar charts, goals distribution
 
-### Screenshots
+### Demo
 
-#### Match Simulator
+![Image](https://github.com/user-attachments/assets/14b6c81a-5964-484a-9c73-c45847b5893e)
 
-![Match Simulator](assets/dashboard_simulator.png)
 
-#### Future Scenarios
-
-![Future Scenarios](assets/dashboard_future.png)
-
-#### Extreme Weather
-
-![Extreme Weather](assets/dashboard_extreme.png)
-
-#### Climate Overview
-
-![Climate Overview](assets/dashboard_overview.png)
-
-#### Team Rankings
-
-![Team Rankings](assets/dashboard_rankings.png)
 
 ## How To Run
 
